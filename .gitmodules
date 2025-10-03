@@ -1,0 +1,6 @@
+[submodule "Data/hate_speech_twitter"]
+	path = Data/hate_speech_twitter
+	url = https://huggingface.co/datasets/thefrankhsu/hate_speech_twitter
+[submodule "Data/hate_speech_offensive"]
+	path = Data/hate_speech_offensive
+	url = https://huggingface.co/datasets/tdavidson/hate_speech_offensive

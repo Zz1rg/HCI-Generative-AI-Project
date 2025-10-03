@@ -7,3 +7,5 @@ bert_venv
 src/results
 
 src/saved_model
+
+src/.ipynb_checkpoints/
