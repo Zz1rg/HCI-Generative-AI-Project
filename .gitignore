@@ -1,3 +1,9 @@
 src/.env
 
 src/.vscode
+
+bert_venv
+
+src/results
+
+src/saved_model
