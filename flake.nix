@@ -33,7 +33,7 @@
             packages = with pkgs; [
               python3
             ] ++ (with pkgs.python313Packages; [
-              jupyterlab pandas python-dotenv openai kaggle
+              jupyterlab pandas python-dotenv openai kaggle fastparquet
             ]);
           };
         }
