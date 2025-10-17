@@ -1,3 +1,9 @@
 Data/hate_speech_detection_curated_dataset/HateSpeechDatasetBalanced.csv filter=lfs diff=lfs merge=lfs -text
 Data/hate_speech_detection_curated_dataset/HateSpeechDataset.csv filter=lfs diff=lfs merge=lfs -text
 Data/hate_speech_and_offensive_language_dataset/labeled_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/converted_hate_speech_and_offensive_language_dataset/data.csv filter=lfs diff=lfs merge=lfs -text
+Data/converted_hate_speech_detection_curated_dataset/data_balanced.csv filter=lfs diff=lfs merge=lfs -text
+Data/converted_hate_speech_detection_curated_dataset/data.csv filter=lfs diff=lfs merge=lfs -text
+Data/converted_hate_speech_offensive/data.csv filter=lfs diff=lfs merge=lfs -text
+Data/converted_hate_speech_twitter/testing_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/converted_hate_speech_twitter/training_data.csv filter=lfs diff=lfs merge=lfs -text
