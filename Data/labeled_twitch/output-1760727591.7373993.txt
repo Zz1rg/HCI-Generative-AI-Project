@@ -1,0 +1,110 @@
+Based on the analysis of the provided labeled dataset, offensive messages (label 1) are primarily characterized by the use of explicit slurs (racial, homophobic, ableist), severe profanity, direct threats, and generalized hate speech or intense, vulgar personal attacks. Non-offensive messages (label 0) include neutral discussion, factual edits, polite disagreements, and mild conversational language.
+
+Applying these criteria, the unlabeled messages are classified as follows:
+
+| Message | Classification Rationale | Label |
+| :--- | :--- | :--- |
+| @lowkeykyne did he rlly | Neutral question. | 0 |
+| @mango23xx -> current stream title: 💥 faze wwe 💥faze subathon 2 💥 day 4💥 35% off subs 💥 sub for no ads 💥 !jail !subgoals | Neutral, promotional content. | 0 |
+| ron tf is this haircut | Mild conversational criticism. | 0 |
+| @sayluhh modcheck looking for who asked | Sarcastic retort, not severe hate speech. | 0 |
+| what happened to drew | Neutral question. | 0 |
+| we kinda missing drew | Neutral statement. | 0 |
+| lacythong pic manidk | Suggestive, but lacks explicit hostility or a recognized slur. | 0 |
+| uuh ͏ | Filler. | 0 |
+| why did drew quit? | Neutral question. | 0 |
+| d: | Emoticon/filler. | 0 |
+| "decorates," | Neutral term. | 0 |
+| roni need a cut | Neutral suggestion. | 0 |
+| !subgoals | Command. | 0 |
+| sob | Emotional expression. | 0 |
+| https://gyazo.com/6b1c0e332191b00823a5e9e2ab986e8d | Neutral link. | 0 |
+| we want gilly pov | Neutral request. | 0 |
+| cotton candy head | Mild descriptive teasing. | 0 |
+| we need drew back | Neutral statement. | 0 |
+| "@snowwyhimself, ew no dont do that" | Mild expression of disagreement. | 0 |
+| buh ot | Filler. | 0 |
+| fuck you drew | Direct, vulgar, and highly aggressive personal attack. | 1 |
+| @drewwall | Neutral mention. | 0 |
+| @ross1214 thats what causes the panic. too much thc but like greening out isnt a thing | Factual/technical discussion. | 0 |
+| nut | Single word, not used as a slur or attack. | 0 |
+| "@jacb1x, heyy" | Neutral greeting. | 0 |
+| @alexgotrona job | Neutral. | 0 |
+| @2amryder no bra | Suggestive comment; not classified as a slur or explicit hate speech/threat found in the L1 training set. | 0 |
+| ofc | Abbreviation, neutral. | 0 |
+| @jlibaa you right mb | Neutral acknowledgement. | 0 |
+| classic | Neutral comment. | 0 |
+| "@himmmmmskiiiiii, ⭐ watch the prisoner 24/7 ⭐ sponsored by breath death ⭐ https://www.twitch.tv/lacyjailstream" | Neutral, promotional content. | 0 |
+| oh brotherrr | Neutral exclamation. | 0 |
+| gn chat | Neutral sign-off. | 0 |
+| he was actually so chill | Neutral observation. | 0 |
+| o7 gaymers | Use of 'gaymers' is often community slang and not explicitly hostile hate speech. | 0 |
+| @ekun gn bedge | Neutral sign-off. | 0 |
+| it was cool that he actually joked and didnt just sit and do nothing | Neutral observation. | 0 |
+| bro jason being only 36 is insane | Neutral observation. | 0 |
+| i havent laughed that hard in a while like when he roasted erobb lule | Neutral expression of enjoyment. | 0 |
+| that shit was funny af cinema | Mild profanity ('shit') used colloquially, not targeted harassment. | 0 |
+| "jason was a bad ass, best person to be famous" | Positive statement with mild colloquial profanity ('bad ass'). | 0 |
+| hes 36??? | Neutral question. | 0 |
+| @magoberry yea hes super funny | Neutral comment. | 0 |
+| https://www.twitch.tv/allergictoguac https://www.twitch.tv/allergictoguac https://www.twitch.tv/allergictoguac | Neutral links/spam. | 0 |
+| ubisoft did jason dirty | Neutral colloquial critique. | 0 |
+| bro how old was he when he blew up | Neutral question. | 0 |
+| erobb just doesn't stop taking ls dude. jason shitting on him was hilarious | Mild profanity/teasing context, not severe personal attack or hate speech. | 0 |
+| @johny_jon o7 same | Neutral sign-off. | 0 |
+| "@funkybeatz_, ya we know bro chill pls" | Neutral request. | 0 |
+| i love seeing worlds collide best content cinema | Positive/Neutral statement. | 0 |
+
+```csv
+message,label
+@lowkeykyne did he rlly,0
+@mango23xx -> current stream title: 💥 faze wwe 💥faze subathon 2 💥 day 4💥 35% off subs 💥 sub for no ads 💥 !jail !subgoals,0
+ron tf is this haircut,0
+@sayluhh modcheck looking for who asked,0
+what happened to drew,0
+we kinda missing drew,0
+lacythong pic manidk,0
+uuh ͏,0
+why did drew quit?,0
+d:,0
+"decorates,",0
+roni need a cut,0
+!subgoals,0
+sob,0
+https://gyazo.com/6b1c0e332191b00823a5e9e2ab986e8d,0
+we want gilly pov,0
+cotton candy head,0
+we need drew back,0
+"@snowwyhimself, ew no dont do that",0
+buh ot,0
+fuck you drew,1
+@drewwall,0
+@ross1214 thats what causes the panic. too much thc but like greening out isnt a thing,0
+nut,0
+"@jacb1x, heyy",0
+@alexgotrona job,0
+@2amryder no bra,0
+ofc,0
+@jlibaa you right mb,0
+classic,0
+"@himmmmmskiiiiii, ⭐ watch the prisoner 24/7 ⭐ sponsored by breath death ⭐ https://www.twitch.tv/lacyjailstream",0
+oh brotherrr,0
+gn chat,0
+he was actually so chill,0
+o7 gaymers,0
+@ekun gn bedge,0
+it was cool that he actually joked and didnt just sit and do nothing,0
+bro jason being only 36 is insane,0
+i havent laughed that hard in a while like when he roasted erobb lule,0
+that shit was funny af cinema,0
+"jason was a bad ass, best person to be famous",0
+hes 36???,0
+@magoberry yea hes super funny,0
+https://www.twitch.tv/allergictoguac https://www.twitch.tv/allergictoguac https://www.twitch.tv/allergictoguac,0
+ubisoft did jason dirty,0
+bro how old was he when he blew up,0
+erobb just doesn't stop taking ls dude. jason shitting on him was hilarious,0
+@johny_jon o7 same,0
+"@funkybeatz_, ya we know bro chill pls",0
+i love seeing worlds collide best content cinema,0
+```

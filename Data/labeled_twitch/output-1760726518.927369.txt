@@ -1,0 +1,68 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset.
+
+**Analysis of Offensive Content (Label 1):**
+Offensive messages (Label 1) are consistently characterized by high-intensity abusive language, including:
+1. **Slurs and Derogatory Terms:** Explicit use of ethnic, sexual, gender, or disability slurs (`fucktard`, `faggot`, `niggaz`, `cripples`, `dyke`, `chinks`).
+2. **Extreme Profanity and Personal Attacks:** Direct and malicious insults utilizing strong vulgarity (`fuck you`, `ass face off`, `bitch`, `wanker`).
+3. **Hate Speech and Dehumanization:** Xenophobic or racist commentary, generalized attacks on groups, or calls for harm (`romanians taking advantage... worth is the genuine equivalent to an insect`, `barren women are inferior`, `execution of all mordant people`).
+
+**Analysis of Non-Offensive Content (Label 0):**
+Non-offensive messages (Label 0) include technical discussions, constructive criticism, general opinions, and observations, even if they sometimes contain mild dissatisfaction (e.g., criticizing policies or article quality) or very mild, context-dependent coarse language (e.g., "hoe of today" with an apology/disclaimer).
+
+Based on this model, the unlabeled messages, which consist primarily of gaming jargon, technical specifications, and competitive commentary related to Call of Duty and other shooters (`bf6`, `cod`, `ttk`, `nuke`, `goat`, `sweats`), do not meet the threshold for offense defined by the training data. The mild use of words like "shitty" or "shit" in describing game performance or servers is standard competitive slang and does not constitute the strong, targeted abuse or hate speech observed in the Label 1 examples.
+
+All unlabeled messages are therefore classified as **0 (not offensive)**.
+
+```csv
+message,label
+bf6 is smacking cod 100%,0
+denver servers prolly chill af,0
+have you tried overload? do u like it if so?,0
+you should do a challenge video for your mods see how nasty they are at cod,0
+are all the teams in texas now?,0
+did u need to pre order to play the bf6 beta?,0
+in apex people play on central to avoid east coast sweats,0
+i wish it would tell you what server you are on,0
+@monicamonaka thats steam brother no one is playing cod on steam xd',0
+how much do you think they will tweak the ttk tomorrow?,0
+@monicamonaka open beta with closed beta,0
+scump has beeeen the goat at pub stomping,0
+scump is a pub stomping goat,0
+crim ranked is way easier then my pub lobbies kids are vicious,0
+he’s just different at pubs,0
+what's our closest server from ottawa? atl?,0
+what about nadeshot dropping 6 nukes,0
+he’s just mr 99 iron,0
+!controller,0
+i mean i literally got put against beans and afro earlier today when i’m just trying to chill and play,0
+ps4 scuf with 2 back buttons,0
+you can 100% compare how enemies play in differnet lobbies,0
+doin tricks on it rn dashy,0
+scump and formal's pov's look so simple and they never do too much,0
+what’s your favorite gun so far in the beta,0
+is everyone switching to the ps5 controller now?,0
+most people are currently on gamepass,0
+@dmiliz you really think he had no help ??,0
+i miss hosts :'),0
+yeah they don’t want a texas player to see they’re pinging 30+ to a shitty dallas server,0
+why not play game?,0
+!meta,0
+nadeshot is a x games gold medalist,0
+end of the day scump is going to farm in a pub he’s the most talented cod player of all time he’s gonna make people look like shit,0
+batman and robin type shit,0
+they werent together,0
+mhmm,0
+!sens,0
+"cod: (1.65 - 1 ads dynamic) valo: (.224 , 1600 dpi) cs: (1.22 - zoom sens 0.95, 800 dpi)",0
+bro when you got 5 other cod ledgends on your team i bet its pretty easy to drop a nuke,0
+i think they were getting hecz lobbies,0
+nade was duo with sym,0
+that was him and sym duo,0
+am i fried or are u playing on paulys acc,0
+not 6 stack,0
+nade dropped 5 nukes in a duo,0
+"nades playing in full parties of friends, him dropping nukes doesnt say anything about sbmm. thats just playing with good friends",0
+the whole map is open in a 6 stack,0
+def,0
+they constantly have uvs's aswell,0
+```

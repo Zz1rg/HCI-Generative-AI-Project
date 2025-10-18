@@ -1,0 +1,68 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset.
+
+**Analysis Summary:**
+
+The key distinction between the classes revolves around the severity and type of abusive language:
+
+*   **Label 1 (Offensive):** Messages overwhelmingly contain explicit hate speech, identity-based slurs (racial, homophobic, transphobic, ableist: e.g., `faggot`, `niggaz`, `dyke`, `cripples`, `chinks`, `fucktard`), dehumanizing language, and often include threats or explicit calls for silencing/harm.
+*   **Label 0 (Not Offensive):** Messages are constructive, conversational, or contain minor, non-identity-based insults (e.g., `douchebag`, isolated uses of `bitch`) or mild profanity that does not escalate to systemic hate speech or violent language.
+
+Based on this analysis, the primary trigger for classification as offensive is the use of severe, identity-targeting slurs.
+
+## Classification of Unlabeled Messages
+
+I will classify the unlabeled messages, assigning `1` only to messages that meet the high threshold for hate speech or severe slurs established by the provided Label 1 examples.
+
+```csv
+message,label
+this song is a banger,0
+@landonrunning ^,0
+alex won les go,0
+ action 5.7 x & y 800 dpi @wexxter999 ,0
+sit down ankalaev,0
+terrible comms,0
+ankalaev humbled,0
+hydra 😭😭,0
+@vxnylfn holy pressed,0
+@solongl9 nobody is pressed brother but youre over here being a dick for no reason tryna be tuff,0
+what happen😭😭,0
+cornball,0
+why is every1 beefing,0
+@nglsurf cuz these retards are braindead,1
+"@vxnylfn stop acting like a nerd lmao ""tryna be tuff""",0
+chat chill arguing,0
+"@solongl9 yet you are, you are irrelevant ? are you bored? lmfai",0
+ybg high af,0
+is ybg still alive lol,0
+wwwwww,0
+auraaaa,0
+indian ninja won that,0
+meeting?,0
+ybg,0
+ww  meeting room pfft,0
+20?,0
+ybg done pfft,0
+20 minutes,0
+@youngbasedgo save us,0
+ybg high asf lol,0
+20??,0
+ybg is baked sob,0
+get ybg,0
+ybg edward,0
+ww reference,0
+@youngbasedgo come here boy,0
+ybggg gonee,0
+https://www.twitch.tv/jasontheween/clip/sweetplacidphonekippa-h0xdzwf1gyxddjwq,0
+ed and ybggg,0
+ybgg,0
+night segments hit different,0
+youngbakedgod,0
+!chatters,0
+there are currently 34126 people in chat!,0
+meeting ono,0
+ww script,0
+save us ybg,0
+wrestling?,0
+oi chopped@mf,0
+edward,0
+```

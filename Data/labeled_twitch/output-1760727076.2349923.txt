@@ -1,0 +1,64 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset to establish criteria for offensive content (label 1).
+
+The core characteristics of offensive messages (label 1) in the training data are:
+1.  **Use of High-Severity Slurs and Profanity:** Terms like `fucking`, `fucktard`, `faggot`, `bitch`, `slut`, `niggaz`, `chinks`, and other highly derogatory language targeting identity groups (race, sexuality, ability, gender).
+2.  **Explicit Violent Threats or Wishes of Harm:** Including phrases like `off yourself`, `execution`, and descriptions of sexual assault or mutilation.
+3.  **Severe Personal Attacks:** Direct, aggressive insults coupled with crude language, far exceeding simple disagreement (e.g., comparing groups to insects, calling individuals `wanker` or `douchebag`).
+
+Applying these strict criteria to the unlabeled messages, which appear to be from a highly casual gaming/streaming environment, none reach the level of severity established by the training set. Phrases like `ez clap`, `gigachad`, or light criticism like `the combat looks stiff` are standard conversational idioms in that context and do not contain the hate speech or severe threats required for classification as label 1.
+
+The classification for the unlabeled dataset is as follows:
+
+```csv
+message,label
+you tucked eno_cozi to bed byeee 👉 🛏,0
+crowbar is pretty good,0
+uhuhuh *hugs*,0
+come on ez clap,0
+i can't believe she did this whole playthrough without the ak gigachad,0
+peepocoffee,0
+uhuhuh,0
+ez dodge,0
+nice moves,0
+saved,0
+peeporun angrily,0
+ha ahahahaha,0
+um,0
+jah,0
+mmmm,0
+$gpt where is the fog monster in silent hill,0
+"bbqsaucerer, 🤖 there isn’t a single “fog monster” in silent hill. the fog is a constant, oppressive atmosphere in the town, designed to conceal its creatures. if you mean a specific boss/creature, specify which game or scene.",0
+uhuhuh bonschizo,0
+sure just flowers,0
+"clueless flowers, not flesh",0
+the fog weighs heavy,0
+hahahaah hello,0
+2020snacking,0
+it's flowers sparkles,0
+this looks like an average winter morning in california om,0
+aloo,0
+sniffa 🥀,0
+they’re cherry blossoms,0
+yeaaa woooo,0
+ratirlvibe,0
+!time,0
+bonnie's local time is 02:48:25 am cdt,0
+the combat looks stiff,0
+aboba aoeoaeo,0
+just keep going bon,0
+peeporun fog0,0
+classic 3 am gaming,0
+we finishing the game bbq mhm,0
+letsgo 24 hour stream,0
+o k,0
+no way you still live aintnoway,0
+aboba drumtime,0
+@bbqsaucerer lol,0
+@daaronzolv nowoy,0
+this house,0
+catkiss,0
+hmmm,0
+just kill everyone mhm,0
+triangle on the map?,0
+eeeh,0
+```

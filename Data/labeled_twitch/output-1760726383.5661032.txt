@@ -1,0 +1,63 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset. The classification criteria learned from the offensive messages (Label 1) primarily revolve around the presence of:
+
+1.  **Slurs and Identity Attacks:** Homophobic, misogynistic, racist, or ableist language (`faggot`, `chinks`, `dyke`, `bitch`, `slut`, `cripples`, `barren women are inferior`).
+2.  **Extreme Profanity/Crude Language:** Explicit swear words, especially those used in conjunction with personal insults (`fucktard`, `asshole`, `wanker`, `shit`, `fucking`).
+3.  **Harassment and Threats:** Calls for violence, self-harm, or severe aggression (`off yourself`, `terminate your stupid interest`, wishing harm).
+
+Based on these learned patterns, I have classified the unlabeled messages. Messages containing highly crude or vulgar sexual slang have been flagged as offensive (1), aligning with the model's sensitivity to profanity and crude insults.
+
+### Classified Results
+
+```csv
+message,label
+"leash in 2025, it's too doomed lmao",0
+aowo ?,0
+tft sus,0
+tft yep,0
+intothemotherlandthegermanarmymarchcomradesstandsidebysidetostopthechargepanzersonrussiansoil top frag tob intothemotherlandthegermanarmymarchcomradesstandsidebysidetostopthechargepanzersonrussiansoil,0
+tft lo,0
+"in vietnamese have the term ""the death thresh""",0
+issok you are better,0
+serpents fang game for sure,0
+tft om,0
+yeah q kills shields,0
+aurora vs morde is miserable i think the riven is a little better,0
+"last game was a riven game, this game is an arora game smoge",0
+"what the light, that riven skin is op",0
+ifrostwave @boxbox ifrostwave chat hope your all having a wonderful day sweeties ifrostlove yuuminepat,0
+is it 10 star guardians?,0
+oh it’s garen,0
+garen'd,0
+q,0
+is that leona jg,0
+im ready for the popoff,0
+@jahhzhengc yep,0
+bop bop bop bop,0
+aesah boxflower,0
+isnt the counterplay to just do it first,0
+twice kok,1
+the classic outskill r button,0
+@twiceowo binoculous qt,0
+garen presses q and then no fun sajj,0
+i think you block his q with your e and figure the rest out,0
+@jahhzhengc nice cock kok,1
+@awildraichu boxblush no u,0
+yeah its rlly hard to all in bc of his w :(,0
+steraks is v good into him as later item,0
+"oh ""tabi"" it means you're really old hahahhaa",0
+pausechamp,0
+sure,0
+deal,0
+@kupsheeesh no way tabi is that old oljj,0
+just buy her then sell hwe,0
+her,0
+kanye yapping on the beat so tough,0
+1 milion for +1 is crazy,0
+cr7,0
+!cam,0
+give to pina hunter,0
+chocolate milk and fries,0
+vivni striker,0
+!camera,0
+what about corner cr7?,0
+```

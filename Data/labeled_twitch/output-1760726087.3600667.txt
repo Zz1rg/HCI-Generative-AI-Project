@@ -1,0 +1,68 @@
+As an expert Data Scientist specializing in content moderation, I have analyzed the provided labeled dataset to determine the key characteristics of offensive content.
+
+### Analysis Summary
+
+Offensive messages (Label 1) are primarily characterized by:
+1.  **Slurs and Severe Profanity:** Use of derogatory terms (e.g., `bitch`, `faggot`, `slut`, `niggaz`) and explicit profanity directed at individuals or groups (e.g., `fuck`, `fucktard`).
+2.  **Hate Speech and Discrimination:** Targeting groups based on race, religion, gender, sexuality, or disability (e.g., messages about `hispanics`, `black people`, `cripples`, `barren women`, `trans`).
+3.  **Toxicity and Insults:** Extreme ad hominem attacks and wishes for self-harm (e.g., `terminate your stupid interest`, `off yourself`, `douchebag`, `wanker`).
+
+Non-offensive messages (Label 0) consist of constructive discussions, technical edits, mild disagreements, and general commentary lacking severe toxic language.
+
+### Classification of Unlabeled Messages
+
+I have applied these rules to classify the unlabeled messages. Profanity (including abbreviations like `mf`) and direct, hostile language (like using `fucked` aggressively or calling someone a `bozo`) are classified as offensive (1).
+
+```csv
+message,label
+!gamble 1000,0
+action r3set3d lost 1000 points in roulette and now has 4500 points! feelsbadman,0
+ll millionaire @anticonned,0
+@sparkyfirm me?,0
+!points,0
+@weqmzzz weqmzzz has 0 points and is rank 1155344/1155412 on the leaderboard.,0
+@jlibaa i havent been acxtive im pretty busy lmao,0
+tub,0
+why is lacy locked up😭,0
+"@dnvvyy, saj",0
+"@slim_shady62, you only have 11 points.",0
+millionaire? me? me?,0
+mods can do the funniest thing rn,0
+@jlibaa soon,0
+do i vote on 1 or 2 chat pick ome44,0
+@anticonned six seven 67 6 7,0
+67,0
+what ever these mf are doing it better be cinema,1
+@big_mac665 cuz he got in a fight with jason,0
+vyse ult,0
+diggr,0
+1000 prem elo strats,0
+prx kehrt nach singapur zurück prx kehrt nach singapur zurück prx kehrt nach singapur zurück prx kehrt nach singapur zurück,0
+vyse ult fucked them,1
+they are so cooked gang,0
+bye bye prx ohneripbozo,1
+euro,0
+guckt,0
+cooked,0
+xdd,0
+bros become a true prx fan,0
+there guns got taken away,0
+they fear getting flanked as the maps are really short,0
+they got sandwich lo,0
+prx lost me all my channel points l gambling,0
+that is my big brain ohne,0
+o7,0
+the c,0
+igl is so bad,0
+valorant players suck lol,0
+vyse ult removes primary,0
+buffering??,0
+vyse ult fucked prx,1
+they had the site but dry flooded,0
+ez games,0
+both upset game,0
+none of them have any aura???,0
+this game lmfaooo what is happening,0
+thye did not have gunn,0
+ll take,0
+```

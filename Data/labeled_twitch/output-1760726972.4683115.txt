@@ -1,0 +1,69 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset.
+
+### Analysis Summary
+
+The analysis revealed that messages labeled `1` (offensive) consistently contain:
+1.  **Severe Slurs and Hate Speech:** Explicit derogatory terms targeting race (`niggaz`, `chinks`, `ching chong`), sexual orientation (`faggot`, `dyke`), disability (`cripples`), or gender (`slut`, `hoe`, `bitch`).
+2.  **Explicit Profanity and Vulgarity:** High-intensity swear words and direct vulgar anatomical references (`fuck`, `shit`, `asshole`, `wanker`).
+3.  **Personal Attacks and Insults:** Strong derogatory characterizations (`fucktard`, `racist scum`, `lazy idiot`).
+4.  **Advocacy of Harm or Dehumanization:** Messages suggesting violence (`execution`, `off yourself`) or comparing groups to insects.
+
+The messages labeled `0` (not offensive) generally consist of technical discussions, factual statements, polite disagreements, or mild conversational slang/emotes.
+
+### Classification of Unlabeled Messages
+
+Based on the learned patterns, the unlabeled messages—which are primarily short, non-inflammatory statements related to food, streamers, and internet culture—do not exhibit any of the severe characteristics found in the offensive class. All messages are classified as **0**.
+
+```csv
+message,label
+dropshotting always been a thang,0
+sprinkle ramen packet,0
+ketchup and mustard,0
+bacon is salt,0
+bacon bits for sure,0
+add the ramen flavoring,0
+keem mrkeem7 peepoblushglizzy,0
+kimchi,0
+yesssssss,0
+sodium overdose with packet too lul,0
+@meesterkeem hello,0
+it is,0
+erm no,0
+headache dog,0
+ramen packet,0
+sremeslick,0
+dont salt the poor guys salt,0
+harambe we miss u,0
+"add some sweet, cranberries",0
+soy sauce mixed with salt,0
+sprinkle the ramen packet,0
+caviar,0
+peanut butter salty,0
+got like 6 ingredients lol,0
+mrkeemsup keem,0
+cavier!,0
+candy often has a lot of salt as well,0
+extra salt,0
+o7 rip hot dog enjoyer,0
+ramen packet is like 5000mgs or sodium,0
+ramen packet twitchconhype twitchconhype twitchconhype,0
+anche gli orei ammoniacati dentro si,0
+make sure he gets a drink,0
+erm,0
+more salt,0
+cheeze is salty exemnod especially the cottage cheese,0
+opening stuff with those nails?,0
+caviar hasnt been added to the dog he missed it em,0
+ask if can he eat pork!!,0
+pokemon,0
+bacon’s,0
+lmfao slippery gloves vs long nails,0
+69 chat dogs sold incoming yep,0
+soy sauce or kimchi,0
+feelsdankman perfect,0
+cuisine,0
+salty dog looks good,0
+keem pull up grab a glizzy,0
+mrkeembrows mrkeembrows mrkeembrows,0
+"ramen is like 2,000 mg sodium nodders",0
+```
