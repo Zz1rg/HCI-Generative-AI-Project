@@ -1,0 +1,53 @@
+```csv
+message,label
+yooooooooo,0
+yoooo,0
+u fuckin that shit up,1
+???,0
+the fuck,1
+wtffff,1
+yeah this is fucking insane,1
+wow,0
+wtf bra,1
+what the f***,1
+..,0
+broooooooooo,0
+lollll,0
+wtffffffffffff,1
+ayooooo,0
+oh fuck no,1
+grown men btw,0
+aye fucking yo,1
+ayooo,0
+yooooooooooooo,0
+wtf whattt,1
+uhhhhhh,0
+is this,0
+........,0
+wtf goijg on,1
+yo ybg lmfao,0
+lo lo,0
+ewwwww,0
+me next please,0
+meta bro meta bro,0
+the magnets live rent free in his head now,0
+theres a limit. invincible ghost are gonna come at some point.,0
+i just discord streamed a movie on netflix with my boys but they fell asleep lol,0
+oh dear the broke the loop,0
+contentcheck,0
+the magnets cant hurt you schizo,1
+action sumcreeper ✧ resub hype! (ﾉ◕ヮ◕)ﾉ sumbuhblam gam3rdave stayed on the 1g squad!! sum1g sumlove sum1g,0
+let him talk sum,0
+too zooted,0
+@bowlbaphett happens lol,0
+are the magnets in the room right now,0
+blindge,0
+thatscrazy rng pixel slop games,0
+@sliime25 waitingjam for darkerhands ragey streams lol,0
+thatscrazy,0
+"@el__gato___ thank you, ive had way to many of em",0
+summiting,0
+wayne,0
+shroud had a frozen pink screen,0
+sumwut,0
+```

@@ -1,0 +1,53 @@
+```csv
+message,label
+@11xmrking thts his real name,0
+@11xmrking its rico,0
+he the faze ticket,0
+wtw reem cocks wtw,1
+he the faze ticket.,0
+reem close the door,0
+go reemm,0
+no sound,0
+yo can u close the door holy shi,1
+steezy,0
+u got all the cities unlocked? @silky,0
+can't hear game audio,0
+why is it muted,0
+@compebk yo demon,1
+get on 2k,0
+u not nice nga,1
+unmute desktop,0
+close the door nigga,1
+no audio,0
+desktop,0
+game audio mutted,0
+@dotywbu wtw mud,0
+"👤 new follow(s) ❤ nichole_s785, toloron_22 ❤, welcome! (1 001 093 followers) (+11947).",0
+internally,0
+dansi ͏,0
+interpritation,0
+!gamble 5,0
+interconnecred,0
+action mckale__ lost 5 stablecoins in roulette and now has 6453 stablecoins! loser,1
+intellectually,0
+interchangeable,0
+interoggation,0
+dansi,0
+interracial,0
+intelligable,0
+interrogate,0
+interconnected,0
+inside,0
+action tizericy lost 5 stablecoins in roulette and now has 37748 stablecoins! loser,1
+internattionality,0
+!gamble 5 ͏,0
+interational,0
+action mckale__ lost 5 stablecoins in roulette and now has 6448 stablecoins! loser,1
+intergalactic,0
+international,0
+interpolation,0
+interigations,0
+intermediate,0
+intercourse,0
+intelligent,0
+```

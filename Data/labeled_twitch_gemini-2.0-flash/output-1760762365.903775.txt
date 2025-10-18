@@ -1,0 +1,53 @@
+```csv
+message,label
+i don't like the movement,0
+is the person playing dante?,0
+me sir lol,0
+i might be sick in the head but i love the game,0
+people who say it’s trash are bad at the game,1
+me good sir,0
+mxr is underated 3 shot kills,0
+it’s trash to people who don’t like the wall running,1
+code my good man,0
+yes sirrr,0
+¡drop,0
+or people who can’t do the movement thinks it’s trash,1
+the peacekeeper is fun also,0
+"of course if i get a code, ill love it",0
+"no wall running tho, it’s kicking off",0
+!wa,0
+lvl 20 is max,0
+"this gonna have the best mp ranked seasons with this movement and horizontal 3 lane maps, less vertical bullshit.",0
+lvl 30 and snd,0
+max 20,0
+anita max wynn dxcat anita max wynn dxcat anita max wynn dxcat anita max wynn dxcat,0
+yeah def isn’t him,0
+santana look like he practice bounce his ssa in the mirror,0
+@watsononkick probably. i like it because it looks fast! streamers that know how to play can pull off sum nasty shit on this game,1
+they should add snd,0
+you don’t keep progress so who cares,0
+but noobs must be mad kappa,1
+what you have for dinner carti?,0
+yeah they prolly got alot of testing to do on the old maps with it since it wasnt planned,0
+weak,0
+little echoey,0
+youre missin a ketchup bottle,0
+get some on the walls,0
+i just followed you on the other sites bro,0
+need mores too it but ntb,0
+you can wall jump in zombies,0
+the whole year to reinvent the game and they just add a wall jump from a previous game,0
+man,0
+wanteeeeeee proud of you gang,0
+ralliedlock nixstahvibe,0
+missing lotion lol,0
+@mustom_cods what i see so far this shit look fire,0
+give us a full visual,0
+who on bf6 next week?,0
+did you say code???,0
+ketchuppmustardd just gifted 5 tier 1 subscriptions!,0
+bf strugglin to stay relevant,0
+bro got beat up?,0
+ngl compared to bo6 when they were being developed at the same time! the facial features in bo7 look weird.,0
+unc fukkin them wings up,1
+```

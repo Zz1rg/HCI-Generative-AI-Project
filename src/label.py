@@ -30,7 +30,7 @@ Labeled Dataset (CSV format with 'message' and 'label' columns, where 0 = not of
 3.  **Assign Labels:**
     *   Assign a label of `1` if the message is offensive.
     *   Assign a label of `0` if the message is not offensive.
-4.  **Format the Output:** Present the final result in a CSV format with a header row. The CSV must contain two columns: `message` and `label`.
+4.  **Format the Output:** Present the final result in a CSV format with a header row. The CSV must contain two columns: `message` and `label`. Do **not** output your explanations, output **only** the CSV.
 
 **Example:**
 
@@ -60,11 +60,21 @@ good game,0
 
   si_text1 = """You are an expert Data Scientist specializing in Natural Language Processing (NLP) and content moderation. Your task is to analyze a labeled dataset of messages to learn what constitutes offensive content, and then use that knowledge to classify a new set of unlabeled messages."""
 
+  model = "gemini-2.0-flash"
+  version = ''
+  os.mkdir(curr_dir / f"../Data/labeled_twitch_{model}{version}/")
+  os.chdir(curr_dir / f"../Data/labeled_twitch_{model}{version}/")
+
   it = iter(unlabeled)
   n = 50
   for x in [list(islice(it, n)) for _ in range((len(unlabeled) + n - 1) // n)]:
     print(f'---\n{x}\n---')
-    model = "gemini-2.5-flash-preview-09-2025"
+    msg_unlabeled_data = types.Part.from_text(text=f"""
+
+Unlabeled Messages (one message per line):
+```
+{'\n'.join(x)}
+```""")
     contents = [
       types.Content(
         role="user",
@@ -72,10 +82,7 @@ good game,0
           msg_text1,
           msg_document1,
           msg_text2,
-          types.Part.from_text(text=f"""Unlabeled Messages (one message per line):
-```
-{'\n'.join(x)}
-```"""),
+          msg_unlabeled_data,
         ]
       ),
     ]
@@ -98,9 +105,6 @@ good game,0
         threshold="OFF"
       )],
       system_instruction=[types.Part.from_text(text=si_text1)],
-      thinking_config=types.ThinkingConfig(
-        thinking_budget=-1,
-      ),
     )
 
     with open(f'output-{time.time()}.txt', 'w') as f:

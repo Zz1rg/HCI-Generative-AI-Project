@@ -1,0 +1,53 @@
+```csv
+message,label
+ozy when are you dying again? will you even make it till monday?,1
+hes a fed,1
+ice,0
+stripper,1
+@ozyfallz so does risen plan to raid with this addon or you guys just doing to make leveling fun again,0
+i mean neir was also a gooner game but was fantastic,1
+gsa?,0
+he works for ice,0
+male online entertainer,0
+1 oh shit!,1
+007,0
+or a streamer,0
+mcdonalds?,0
+geo?,0
+illigal immigrant,1
+dha,0
+honey pig let's goooo,0
+i work as a president in europe,0
+kaak,1
+ice lfg,0
+hes clearly an assassin,0
+lolol,0
+he sells ice,0
+fed suss,1
+kfc,0
+bro is a ice dawg fo sure,0
+he is a korean spy,1
+nickelodeon,0
+bartender in dc! nova born and raised,0
+the bots,0
+nobody is looking for you kekw,0
+faith,0
+faint,0
+fanta,0
+fatty,1
+punga smack hin,1
+remember,0
+famous,0
+fault,0
+factor,0
+fails,0
+face,0
+fans,0
+fa***,1
+faces,0
+refable,0
+herehego,0
+fainted,0
+ome32,0
+farts,0
+```

@@ -1,0 +1,53 @@
+```csv
+message,label
+oh,0
+omg.......,0
+kekw,0
+omggg,0
+prx wins please,0
+gg bye bye prx,0
+not to drx man,0
+oh man i'm so happy,0
+gg wrap it up,0
+lmfao gg,0
+lol you say believe immediately lost,1
+bye prx,0
+better team wins,0
+hahahahahahahaha,0
+okay thank yal,0
+?,0
+waste of an ult,0
+lmaoooooooooooooooooooo,0
+hahahahahh,0
+fg,0
+nooooooooooooooo,0
+??,0
+lmfaooo,0
+shanks curse is real wtf,0
+tabgyuadgaduhjd,0
+broooooo,0
+thats gg,0
+bro,0
+gg ig,0
+lmaooooooooooooooooooo,0
+ahahahahahaehahah,0
+no more prx,0
+????????,0
+ggg,0
+fake,0
+nah,0
+hello?,0
+so losable,0
+how,0
+vamossss,0
+ahahahahaha,0
+ggggggggs,0
+cypher cam,0
+shotcall broken agaainn,0
+either way i dont mind whoever wins at this point,0
+"bye prx, bang!",0
+joshsekipog,0
+dinodance dinodance dinodance,0
+classic cypher looking at himself in cam,0
+flashback threw for the 3rd time now in this hald,0
+```
