@@ -1,0 +1,63 @@
+Based on the analysis of the provided labeled dataset, offensive messages (label 1) are characterized by:
+
+1.  **Slurs and Severe Profanity:** Explicit use of racial, homophobic, or sexist slurs (e.g., `faggot`, `niggaz`, `chinks`, `dyke`, `bitch`, `slut`), or extreme profanity (`fucking`, `shit`).
+2.  **Hate Speech/Discrimination:** Statements demeaning specific groups (e.g., `barren women are inferior`, `trans they have mental problems`, `black person just does not consume the same genial capacitance as whites`).
+3.  **Threats/Hostility:** Calls for violence or self-harm (e.g., `off yourself`, `execution`, `attack`), or intensely hostile personal insults (`fucktard`, `racist scum`).
+
+The unlabeled messages consist primarily of casual conversation, gaming/social media jargon (`doodshake`, `doodbro`, `exemplot`), positive observations about homes/animals, and non-toxic criticism of companies. They do not contain any of the severe slurs, threats, or targeted hate speech observed in the labeled offensive class. The mildest potential insult (`doodscrub`) and general interjections (`omfgggg`, `damn`) are far below the toxicity threshold established by the offensive examples.
+
+Therefore, all unlabeled messages are classified as not offensive (label 0).
+
+```csv
+message,label
+division may be divided but their isnt a divided business rule to share info,0
+@mrsayianbats2017 doodshake doodshake doodshake,0
+"@khalvollbart yeah nakayama's first post is like ""here's the art i wanted to use. crazy i cant because i have no control over the esports team. we are separate"" lmao",0
+there's a reason why we had to fight for rollback,0
+@dmakt square does everything they can to take the money xiv makes and put it anywhere but back into xiv,0
+lost in communication,0
+is max playing yotei tonight?,0
+@mrsayianbats2017 doodfive doodshake doodbro dood,0
+howdy bats @mrsayianbats2017 doodshake doodshake doodshake doodshake,0
+@isaac_murillo_ @itsya_boi_gappy yo yo dudes hows it going and happy friday! doodbro doodshake doodshake doodgg,0
+@mrsayianbats2017 yo dood! doodshake doodshine doodhug,0
+lul lul lul doodscrub,0
+@krolja it hurts.,0
+bungie is the example that it doesn't work,0
+click that one,0
+aw her doggies waiting at the door lol,0
+kaicconfusedd,0
+exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot exemplot,0
+omfgggg,0
+paekaaaaa,0
+w duoooo,0
+ninapi4salute ninapi4salute,0
+doggies waiting so cute,0
+vtechtmjpop vtechtmjpop vtechtmjpop,0
+mblisscooked i can’t see,0
+beverly hills,0
+yyjpopcorn,0
+her home so beautiful i can’t wait,0
+omg i love thissss,0
+bleedpurple bleedpurple bleedpurple bleedpurple,0
+exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave exemwave,0
+awwww,0
+djmissilewhat,0
+awww,0
+puppy ^_^,0
+awww 🥰,0
+whosss thattt??,0
+damn that's a nice house,0
+her house has a reception window at the front,0
+puppiesssss,0
+this house is niceeee,0
+chat idk who this is uuh,0
+she fineeeee,0
+she's beautiful and it's so pretty inside <3,0
+djmissilebop,0
+her house is beautiful,0
+"the house look big, nice",0
+lmaoooo,0
+mute,0
+we muted,0
+```

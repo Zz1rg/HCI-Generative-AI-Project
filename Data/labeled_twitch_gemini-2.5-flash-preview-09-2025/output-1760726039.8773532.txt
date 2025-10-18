@@ -1,0 +1,73 @@
+As an expert Data Scientist specializing in content moderation, I have analyzed the provided labeled dataset to establish criteria for offensive content.
+
+### Analysis Summary
+
+Offensive messages (Label 1) in the training data exhibit clear patterns involving:
+1.  **Extreme Profanity and Slurs:** Frequent use of high-impact words like `fuck`, `shit`, `asshole`, and various derogatory terms targeting race, gender, and sexual orientation (`faggot`, `dyke`, `chinks`, `niggaz`, `bitch`, `hoe`).
+2.  **Personal Attacks and Insults:** Direct insults using words like `stupid`, `idiot`, `wanker`, `incompetent`, and phrases suggesting self-harm (`off yourself`).
+3.  **Hate Speech and Dehumanization:** Statements promoting inferiority based on identity (`barren women are inferior`, xenophobic comments like comparing a nationality to an `insect`).
+4.  **Trolling/Disruptive Content:** Aggressive, sometimes nonsensical, statements intended purely to harass or derail conversation.
+
+The non-offensive messages (Label 0) consist of constructive discussion, polite discourse, technical queries, or neutral status updates.
+
+### Classification of Unlabeled Messages
+
+The unlabeled messages primarily consist of names, simple observations, neutral abbreviations, and various bot commands (`!gamble`, `!coinflip`, etc.). They lack the high-severity profanity, slurs, threats, or hate speech observed in the Label 1 samples. Minor non-severe insults (like "stinkin") are not sufficient to meet the highly aggressive threshold established by the training data.
+
+Therefore, all unlabeled messages are classified as **0 (not offensive)**.
+
+### Final Classified Dataset
+
+```csv
+message,label
+someone gift meeee plssss,0
+linkin,0
+sinked in,0
+i ve been thinking,0
+linkenin,0
+weekend,0
+weeekend,0
+saj jax,0
+thoughts,0
+saj,0
+linkindin,0
+@thesierramasterchief117 u da 1 bro,0
+next to pbm he been stinkin,0
+you,0
+wwwken,0
+linkeden,0
+youuuu,0
+i miss jax,0
+on you,0
+linkein,0
+weekedn,0
+eyes on you,0
+ayyy,0
+youu,0
+eyes,0
+youuu,0
+you ͏,0
+thinging,0
+!watchtime @myzarii,0
+jax jax jax,0
+@gooberfnt gamble has 0 points and is rank 1/1155412 on the leaderboard.,0
+wakeup,0
+w speed,0
+!gamble 67,0
+"@slim_shady62, you only have 9 points.",0
+!gamble 90%,0
+ action tomatocfc lost 180 points in roulette and now has 20 points! feelsbadman,0
+why is he in jail,0
+wideboink,0
+!followage,0
+"@ghostdior, ghostdior has been following lacy for  1 year 6 months 20 days 11 hours",0
+!gamble all,0
+ action pogchamp gooberfnt went all in and won 5 points pogchamp they now have 10 points feelsgoodman,0
+3,0
+2,0
+1,0
+!coinflip,0
+" action strangerdaie, your coin has landed on...... heads ",0
+!gamble 30%,0
+!gamble 100%,0
+```

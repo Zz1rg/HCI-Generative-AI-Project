@@ -1,0 +1,72 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset.
+
+### 1. Analysis of Labeled Dataset
+
+The analysis revealed clear distinctions between non-offensive (0) and offensive (1) content:
+
+**Label 0 (Not Offensive):** Messages focused on policy debate, content editing, technical specifications, policy critique (if professional), general greetings, and non-abusive personal opinions. Profanity was either absent or heavily mitigated ("no offense intended").
+
+**Label 1 (Offensive):** Messages contained severe profanity, targeted personal insults (ad hominem), dehumanization, hate speech, and slurs. Key characteristics included:
+1.  **Slurs/Hate Speech:** Explicitly racial/ethnic slurs (`niggaz`, `chongs`, `ho ching chong`), anti-LGBTQ+ slurs (`faggot`, `dyke`), and attacks based on gender or ability (`barren women are inferior`, `cripples`).
+2.  **Explicit Abusive Language:** Strong profanity used aggressively (`fucking no life car`, `fucktard`, `asshole`, `bitch`, `slut`).
+3.  **Threats/Extreme Degradation:** Calls for self-harm or violence (`off yourself`, `execution of all mordant people`).
+
+Based on this, the presence of explicit slurs (regardless of apparent intent in context) or aggressive, targeted use of high-intensity profanity defines a message as offensive (1).
+
+### 2. Classification of Unlabeled Messages
+
+Applying the learned rules, the unlabeled messages were classified. Only the message containing the racial slur "nigga" was labeled as offensive, as the training data demonstrated that the presence of such terms results in a label of 1.
+
+```csv
+message,label
+katana,0
+"you were aura type build, not melee",0
+@塔科_王牌 yea the dev of megabonk needs to add that asap,0
+ice cube,0
+bow,0
+katana and dex,0
+axe bow katana and execujtioner sword,0
+thatscrazy \,0
+bow axe d sword,0
+you need the hour glass,0
+swegwtf swegwtf swegwtf,0
+last fight one guy bit the other guy,0
+did he fight already,0
+i just hop on,0
+hop on for the vibes,0
+@pressureav3 no,0
+who warms up addierip,0
+the vibe,0
+keystichns,0
+these bot lobbies,0
+swegsmirk swegsmirk,0
+hop on for the “vibrational energy”,0
+im a casual sweat lol,0
+dante coming up,0
+they use to stay watching joewo movement videos snorting gfuel,0
+west coast freeeeee,0
+plus ppl be playing for years too,0
+when does the game come out?,0
+finish18rocktfon,0
+swagg mega zooted,0
+dante fights next,0
+yo kris no nuke counter this time ?,0
+if u get game pass can u play beta rn?,0
+yeah i've been playing cod since waw,0
+sweglove sweglove sweglove,0
+@godz00z yes,0
+last fight boxer got bite in the nipple by the other one,0
+read u like a book,0
+guten morgen. wie lange streamst du heute schon. ich habe in der zwischenzeit geschlafen und als ich in bett gegangen bin warst du schon am streamen und als ich grade aufgestanden bin bist du immer noch am streamen. best regards from austria,0
+keystichns keystichns keystichns,0
+nah facts,0
+this nigga too fried he yapping,1
+@snake_king2015 xxddd,0
+haha i got yall on the loud speaker in the studio,0
+swegfein,0
+jsmoot1fazenukee,0
+finish18ayyyyyyy,0
+he fights next after this one,0
+!specs,0
+"gaming pc: 5090, ryzen 7 9800x3d, asrock x870e nova, g.skill 32gb ddr5 cl30 6000mhz ram, 1200w platinum power supply | streaming pc: 5070ti, ryzen 9 7950x, asus tuf gaming x870e, 48gb ddr5 6000mhz ram, 2tb ssd, 850watt gold psu",0
+```

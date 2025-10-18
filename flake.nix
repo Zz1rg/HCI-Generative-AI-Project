@@ -34,6 +34,7 @@
               python3
             ] ++ (with pkgs.python313Packages; [
               jupyterlab pandas python-dotenv openai kaggle fastparquet
+              google-genai
             ]);
           };
         }

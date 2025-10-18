@@ -1,0 +1,53 @@
+```csv
+message,label
+derr we go,0
+nahhh lazer feel hot rn,0
+smack him lazarrrr,0
+favor,0
+herehego 󠀀,0
+faker,0
+fathe,0
+@silky,0
+lazer run in his mouth,0
+rakai,0
+silkydance3 silkydance3,0
+fancy,0
+holon,0
+falls,0
+fames,0
+fast,0
+yesssss,0
+ake,0
+fatal,0
+falty,0
+silkydance3 silkydance3 silkydance3 silkydance3 silkydance3,0
+faul;t\,0
+tault,0
+fault ͏,0
+fauxs,0
+damnnnnnnnnnnnnnnnnnn,0
+family,0
+faults,0
+nigga ssid family😂😂😂😂😂,1
+faulty,0
+buuh,0
+yooo,0
+wtfffff,1
+ewwwwwwwwwwww,1
+what the fuck,1
+whattt,0
+red,0
+pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint pridepaint,0
+lol wtf,1
+naaaah,0
+we need eye contact,0
+....,0
+whattt ͏,0
+ayoooo,0
+what happend to lacy?,0
+ayoo,0
+eww ͏,1
+ayo ͏,0
+oh nah,0
+ewwwwwwwwwwwwwwww,1
+```

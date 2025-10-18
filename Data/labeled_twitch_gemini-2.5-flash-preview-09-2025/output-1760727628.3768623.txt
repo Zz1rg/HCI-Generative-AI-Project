@@ -1,0 +1,69 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset.
+
+### Analysis Summary
+
+The messages labeled **1 (Offensive)** contain severe toxicity, including:
+1.  **Hate Speech and Slurs:** Explicit use of racial, sexual, homophobic, and ableist slurs (e.g., `faggot`, `dyke`, `niggaz`, `ching chong`, `cripples`, `slut`).
+2.  **Extreme Profanity:** High-frequency and targeted use of strong profanity (e.g., `fucking`, `fucktard`, `asshole`, `wanker`).
+3.  **Personal Attacks and Insults:** Direct degradation of individuals or groups (e.g., `idiot`, `stupid`, `incompetent`, `racist scum`).
+4.  **Incitement/Threats:** Calls for harm or suppression (e.g., `off yourself`, `execution`, `silenced`).
+
+The messages labeled **0 (Not Offensive)** are generally informational, critical of objects (not people), or contain mild, non-targeted language.
+
+Based on this analysis, the classification of the unlabeled messages focuses on the presence of direct personal insults or strong slurs/hate speech.
+
+### Classified Unlabeled Messages
+
+```csv
+message,label
+neither,0
+the kardashian guy?,0
+@maydupnem yea,0
+is he known for anything except the sextape?,0
+check out my latest video: mizkif might lose alana 😂 - https://youtu.be/5ucpfo-nwvg,0
+@maydupnem  no the artist brandy brother,0
+widehardo,0
+ray j the guy that scammed millions with his headphone brand raycons?,0
+follow my twitter https://twitter.com/realmizkif and instagram https://instagram.com/realmizkif/,0
+i know nothing about that i  just know he streams trying to compete with tpain,0
+@richinoob24 what we doin,0
+i will watch the final hw movie with nick,0
+so what is the bet about. i caught the shave head part,0
+@douthink sprint,0
+wtf was that,0
+boobs,0
+@rohkess rohkess has 186 points and is rank 68732/1156817 on the leaderboard.,0
+!slots,0
+@rohkess you got 4head | idiot | pagman and lost your 50 points lul,1
+@maydupnem  so who is the fastest?,0
+@aquazdark of twitch?,0
+dante you fighting jake paul next?,0
+@savloll fr 423 hours is crazy,0
+6-10,0
+you get a nuke yet?,0
+looks the same as the rest,0
+to high,0
+looks good! maybe 8/10 or better,0
+5-01,0
+nixstahcorn,0
+kaicgimmiegold hpdukemegan,0
+5 we'll see after i play,0
+shi crazy lol,0
+!nukes,0
+gabdghes total: 88 | swagg: 42 / dante: 25 / carti: 12 / jsmooth: 9 |,0
+yall love it because it pays the bills,0
+is dante the person playing rn?,0
+lol it does not,0
+@thegadster facts,0
+did santana win his boxing match,0
+"slide speed, pull up gun speed, movement speed, looks gg",0
+this game is terrible,0
+alligators?,0
+oh shit who’s in the ai prison?,0
+i missed you dog,0
+same as them all,0
+hahhaha,0
+it aint even trash tho kappa,0
+battlefield,0
+it's good just feels a bit slower then bo6 but it's good,0
+```

@@ -1,0 +1,68 @@
+As an expert Data Scientist specializing in NLP and content moderation, I have analyzed the provided labeled dataset to establish criteria for identifying offensive content.
+
+### Labeled Dataset Analysis Summary
+
+The classification rules derived from the training data emphasize zero tolerance for:
+1.  **Slurs and Hate Speech:** Any derogatory language targeting race, gender, sexual orientation, religion, or ability (`niggaz`, `f a g`, `chinks`, `dyke`, `cripples`, generalizing women as `inferior`).
+2.  **Severe Profanity and Insults:** Use of strong curse words or highly aggressive personal attacks (`fucktard`, `wanker`, `off yourself`, `stay stupid`, explicit use of `fuck`).
+3.  **Aggressive Content:** Statements inciting or glorifying serious violence (`kill him`, aggressive fight slang like `merk`).
+
+Based on this strict interpretation, common modern chat acronyms and crude slang containing profanity (even if abbreviated) are classified as offensive (Label 1).
+
+### Classification of Unlabeled Messages
+
+The following classification is applied to the unlabeled messages:
+
+```csv
+message,label
+that mouthpiece ass,1
+chi is put that george lopez too sleep cuhh,0
+not my boy dante!!,0
+deduct a point next time,0
+he really tryna kill him…. no gta…,1
+cant breathe properly,0
+nigga buying time to get a breather,1
+busted his shii in,1
+🫢,0
+ahh,0
+i feel bad this is bad,0
+yuuuuh,0
+dont run,0
+his is crazy,0
+sumbody gift me a sub?,0
+girlhelilrodneyson girlhelilrodneyson girlhelilrodneyson girlhelilrodneyson,0
+chibu fightin like he gettin paid in wings 😂,0
+"bell ring""",0
+stop it,0
+chin check that mf 😂,1
+haymakers,0
+it's overs,0
+stop the fight,0
+that’s prolly y mike bites his gloves,0
+"damn, he's leaking.",0
+bell rungggg,0
+oh wow,0
+oooo shit,1
+yeaaaaa chibu,0
+no time??,0
+oooooooooooooooo,0
+stop the fight lol,0
+things are getting spicy,0
+www chibu,0
+wtf the bell rungggg,1
+chibu piecing him up,0
+o,0
+chibu him,0
+wtf lmaoo,1
+chibus put that george lopez too night night cuhh,0
+his face is wow,0
+he’s done put a fork 🍴 in em 🐷,0
+lmfaooooooo,1
+lmaoooooo,1
+bro got elbowed lul,0
+chibu tryna merk sumnnn,1
+bro tried the street fighter super punch lmfao,1
+oweeeee,0
+omg that was good,0
+bendad1countinpape bendad1stampdat bendad1stampdat,0
+```

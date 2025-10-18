@@ -1,0 +1,53 @@
+```csv
+message,label
+finally called them bits and not bites,0
+mhm that's great,0
+and some water too,0
+oooo real mily,0
+agahi hey there,0
+hii,0
+salt dog,0
+agahi,0
+bacon and caviar cinema,0
+quello è un panino misero ahah,0
+@brian_thai hi,0
+danwave,0
+salt the salt dog on top,0
+heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys heyguys,0
+spam a lot,0
+trip to the er dog,0
+wasabi wasabi,0
+oooo real caviar,0
+exemclap exemclap exemclap exemclap,0
+big dog,0
+exemegalul exemegalul exemegalul exemegalul,0
+tasty salt dog,0
+truffle oil,0
+i get you,0
+??????????,0
+...butthenameislongersoyoucantspamit,0
+you are the last person to speak on combat,1
+jesus hes fkn tard like he speaks,1
+!nosepyramid,0
+xqcn,0
+xqcn xqcn,0
+"""""""""""""""""""""""""""""mixed"""""""""""""""""""""""""""""",0
+xqcn xqcn xqcn,0
+rage baiting for a clip pffttt,1
+ragebait  ͏,1
+u are waffling,0
+qc stop virtue signaling @xqc,0
+???????????,0
+stop being a smartass you know what they talking about,1
+clappi,0
+xqc and fight talk lol,0
+"its ""mma"" its ""mma"" its ""mma"" its ""mma""",0
+you dont know wrestling stfu,1
+"""xqc"" boxing expert",0
+clap,0
+peperg,0
+you are just talking fr,0
+yappin stop talking,0
+khabib connar ez,0
+skeleton take nahh,0
+```
