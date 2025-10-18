@@ -1,0 +1,53 @@
+```csv
+message,label
+just grabbing evo for the team,0
+brokeback,1
+is,0
+huh? first getting tied up now this????,1
+juke master,0
+w aim,0
+faide when are u droping a new movement guide...last one was 4yrs ago,0
+back shots,1
+don’t tempt us,0
+is crazy,0
+yea uh huh repeat that other part,0
+teammates taking 6-8 weeks for delivery,0
+"tie me up, fuck me in my ass... is faide tellin us whwat he wants h??",1
+"tied up, he went to deep, taking shots in the ass....",1
+mad sus,0
+!monitor,0
+action asus tuf gaming vg259qm 280hz monitor (fps capped at 180) -> https://amzn.to/4gopvp7,0
+sup chat,0
+dont worry you got the dash,0
+what a surprise. playing rank not working solo,0
+damn bro what is this,0
+@belick92 who's the igl to follow?,0
+@myth_of_sisyphus  nickmercs,0
+this how my teammates when i solo que but they ain’t this good,0
+you are almost master,0
+@sillyrabbiit lul,0
+working?,0
+first time chatters be chatting,0
+the ego on the duos to take the games hostage is annoying,0
+do not question the goat's tactics,0
+"i see videos of ppl on console doing consistent zip jumps and mantles, they are using cfgs right?",0
+does faide use iem’s?,0
+!audio,0
+audio has ruined the game 7078 times,0
+d: f word,1
+"@belick92 it worked lots of times, as it worked for gdolphn, for asiaxd and lots of others good players, if you had a gram of brain you would have noticed he is playing with a silver mate",1
+damn your teammate was playing solo aware,0
+audion't,0
+controller horizon brain solo push,0
+audio?,0
+waddup homie fadie,0
+ex and sang are a duo,0
+audio has ruined the game 7079 times,0
+hope this game gets fixed,0
+bro doing the bot challenge,0
+indie game,0
+praying for a diamond teammate,0
+@سكريبتو lol i don’t think anybody is bad enough to need a cfg for a super jump or a mantle jump. also dunno how you’d access cfg files on a console,0
+action faide is now sponsored by @brparadox -> https://brparadox.com/?ref=faide ! use code “faide” for $$ off your purchase faidekunai,0
+fasho,0
+```

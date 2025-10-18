@@ -1,0 +1,53 @@
+```csv
+message,label
+taze his cuffs,1
+or mental illness,0
+one 95,0
+hows everyone doing?,0
+i can't breathe lolololol ok,1
+mdma is a bad life choice...,0
+oops grey tazer,1
+oh word,0
+@gibbys_ribs nahh,0
+this is why you whoop your kids folks,1
+idk he crazy so he wont cry,0
+this whole chat pussy,1
+hitting a women is crazy ngl,1
+i fought the law and the,0
+this is the landlords kid??,0
+@zoltec_ on jah,0
+skip this man this is so cringe its insane,1
+its time for the asylum penitentiarys to come back,1
+buddys cooked,1
+this is just sad man go next,0
+"""you clear this up right now"" lol trust its being cleared up homey",0
+@mgoblue734 what?...,0
+that was his mother he hit in the face his sister is also there,1
+bro is high as fuck,1
+lmao wut,0
+is that not intimidating a witness?,0
+this kid is so weird omd,0
+rip points,0
+meth is an hell of an drug,0
+jail going to eat this kid alive 😂😭💀,1
+wait til hes in the car alone,0
+drugs,0
+@unswayed lmao cry more,1
+probably true,0
+couragecrazy couragecrazy couragecrazy,0
+i couldnt be a cop,0
+open fire,1
+that was his sister,0
+he’s gotta be high as fuck,1
+generation is cooooked,1
+i could never be a cop,0
+@zoltec_ swiftyep swiftyep swiftyep,0
+his braain fried from the drugs,1
+i assaulted someone and now im rich after getting arrested kekw,1
+this guy would be sleeping,0
+i fought the law and the law won,0
+@zoltec_ that's exactly why bro. parents need to put some lashes on that ass for sure,1
+@unswayed bruh you in the chat,0
+tazer tazer tazer,1
+the over hits,0
+```

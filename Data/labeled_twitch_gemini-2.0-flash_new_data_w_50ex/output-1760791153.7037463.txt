@@ -1,0 +1,17 @@
+```csv
+message,label
+touching his balls man,1
+no he did not,0
+no you didn’t,0
+he lying,0
+one of these nights yall got to play cops and robbers at that house,0
+cappppp,0
+lmfaoooooo he's lying,0
+no you didnt,0
+wwwww mafia,0
+lies,0
+lying ass \,0
+tylil make kai wash his hands,0
+sheriff,0
+he lyingggg,0
+```

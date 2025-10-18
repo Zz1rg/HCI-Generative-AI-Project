@@ -1,0 +1,53 @@
+```csv
+message,label
+kekw there's a big,0
+elp,0
+nut bedge,0
+bug*,0
+tear it up nut  cease,0
+nut ariellebedge,0
+ariellewiggle ariellewiggle ariellewiggle,0
+elp nut,0
+awoo awoo awoo,0
+bug,0
+"when are you gonna stream beldum buildup, ari? it's the hot new game!",0
+a fly? kekw,0
+"bruh, you fumble amalee that's ggs fam baomotegg",0
+freak,1
+"great, i entered at a good time.",0
+.....what?,0
+still not as bad as hand holdinhg,0
+just wait till they hold hands,0
+gag,0
+why is there blood everywhere? :o,0
+my heart bleeds for this guy,0
+damn alright i just walked in,0
+"hiii bao ... i  am a longer time clip enjoy only recently into twitch ,through mega and her community ... i did see that special something last night and just wanted to stop by and say hi and lurk baomotekneel l0megashorkluv l0megalubbers  you are officially my third oshi ever ... the first being mega. cheer100 cheer100 lubbers",0
+"oh, boo hoo man-hoe",1
+same,0
+200 bits! everyone give some hype & love for @the1striker_shorkie,0
+bro acts the victim when hes just rizzless,0
+lookup,0
+om 󠀀,0
+"bro really crashing out about having 4 girl-failure baddies, smhap smh",1
+rip,0
+lumituloomzoom lumituloomzoom lumituloomzoom,0
+buhh,0
+action watch bao reactions like you've never seen before! support the new channel by subscribing today! https://www.youtube.com/@baothewhalereacts,0
+hexelooking yoccilooking aoilooking,1
+"dad's gonna whoop him, then mom's gonna whoop everyone again",0
+worth mom's got a mean right-hook,0
+milofrog,0
+"that’s how all families do it, no?",0
+"well, none of them appear to be drunk, so it's fine, no?",0
+the vtuber is calling,0
+baomotegasm,0
+awkward yeah maybe ai knows something,0
+fly-rubs hands,0
+ai be talking to the media like mewhenipurposefullyspreadmisinformationovertheinternet,0
+bigmoney,0
+parents farm my drama all the time,0
+gotta up those numbers,0
+putthemoneyinthebag farming vtuber drama,0
+anything for the bag,0
+```

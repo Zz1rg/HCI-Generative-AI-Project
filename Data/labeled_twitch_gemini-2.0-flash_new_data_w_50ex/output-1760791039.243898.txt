@@ -1,0 +1,53 @@
+```csv
+message,label
+sometimes when you get really excited you sound super canadian,0
+oh hell no,1
+tf did i come back too,1
+we just exposing people,0
+eww jesus,1
+ewwwwwww,1
+whatttt,0
+mood killer,0
+aint no way lol,0
+wtf?,1
+wtf did i just come back too,1
+sakurasrip sakurasrip sakurasrip sakurasrip sakurasrip,0
+what?????,0
+if u stick it there i can happen,0
+adapt2wut,0
+them damn freaky canadians,1
+dat happened to me ngl,0
+why even admit to thta,0
+sakurasrip sakurasrip sakurasrip,0
+"how did she find out?,?!??!?!?!?@?",0
+we totally were waiting to hear that story,0
+freaky ass canadians,1
+yaya6stare,0
+its a dangerous game,0
+dudes a real one though lmao,0
+why did the brother even tell that story to his sister,0
+@producinproduct lol,0
+so i just open the stream and this is the first thing that i heard,0
+great story ig,0
+your glitching,0
+who told her????,0
+@jaijaib says the same shit everytime i come back to a sakura stream,1
+your all pixie,0
+@mtnrider8103 lol,0
+riverdal ass city,0
+💀💀💀💀,0
+how to get out the shit cutscene pfft,1
+smaller townt he freakier it gets folks have nothing else to do,0
+@nba_lv11 rt,0
+ohh boy we on this segment,0
+i am still traumatized from seeing the dubai toilet potty videos help,0
+"@foolofwisdom found the blue print for it earlier, need to gather the mats. looks good!",0
+"@justjaygray i found a way to smoke ketamine, mad? seqsmoke",0
+@gotyagacha just gotta wait for release seqcope,0
+"@peskyphoenix ye. just gotta say off the wall shit or just stare at em, they get nervous and fuck off most of the time",1
+follow on twitter: @sequisha,0
+wonder if some parts can he used to craft stocks n shit,0
+progression kinda botched,0
+will this game cook my gtx1060? seq1,0
+@foolofwisdom lmaoo hit em with the 'u mad bro?' and give them crazy eyes seqinsane,0
+```

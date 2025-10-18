@@ -1,0 +1,53 @@
+```csv
+message,label
+sunny omfg,0
+oooo sunny,0
+noway,0
+i remember him,0
+that face,0
+sunny king of mods,0
+oh my god kai cenats mod,0
+level 5,0
+someone gift 5,0
+lolll,0
+is that blaze?,0
+loser,1
+sunny king of all mods,0
+he’s so tall,0
+thats od,0
+ipad kid,1
+w sunny,0
+d1,0
+he was by the letter d,0
+go upstairs i wanna zee it too,0
+stop sticking to lacy,0
+yap,0
+@0pogix dead thouhgt he was bouta say that,0
+go upstairs,0
+@mohazan0 weird ass chatter,1
+"btw marlon, ur single?",0
+he was near the letter f,0
+@a_fr0g same sob,0
+@mohazan0 let he do what he wants,0
+@lugsy00 he lying widespeedapple2,0
+who,0
+who tf is dantdm,0
+who lul,0
+who?,0
+who dat,0
+whooo,0
+gyat,0
+teal pants,0
+ads,0
+go up,0
+@yazanrrrr ...........,0
+outside broski,0
+huzzz,0
+if you dont know him your like yoo young lmao,0
+@blaxter56 what he say? 😭,0
+"stop sticking with lac,just stay there alone please",0
+@yazanrrrr aint no way,0
+fuck dantdm,1
+@yazanrrrr new gen,0
+gyattt,0
+```

@@ -1,0 +1,53 @@
+```csv
+message,label
+back,0
+ok back,0
+nice lights,0
+we back,0
+nvm back,0
+her house is so 80s i love,0
+doggo 🥹,0
+vtechtheart vtechtheart vtechtheart vtechtheart vtechtheart vtechtheart,0
+it’s like 80s glam,0
+djmissilenoice djmissilehappy djmissilecry lovely,0
+girls night girls night,0
+awwwwww,0
+awwwww,0
+madame266moveshair madame266moveshair madame266moveshair madame266moveshair madame266moveshair,0
+cute,0
+this is so wholesome,0
+she’s gorgeous,0
+no curtains? it's that chill around there? i like it,0
+yassss sentimental gifts,0
+aww doggy,0
+dogoooo,0
+aw i love paeka,0
+soft inside we seen yesterday,0
+"djmissilebop yep, we playin all that",0
+dogs get pirods,0
+@kendrickfriday yess the windows lead out to the water,0
+ye,0
+baconc1wheeze,0
+"@bostontom paeka and benji are friends w the ortiz twins, eve and wendy",0
+siren and a mermaid,0
+who tota,0
+nina got big trust if she starts drinkin,0
+@fwmarrii how do you know? she streams?,0
+ofc she grabbing takis lol,0
+baconc1kukulul baconc1kukulul,0
+i love takisssssss,0
+ayi,0
+😭😭,0
+ayo,0
+sum things u dont share nina stop,0
+i e,0
+"lol, lovely house gift tho",0
+lul lul lul lul lul lul,0
+😭😭😂😂,0
+i ate takis  today,0
+😭😭😂😂😂😂,0
+qtss,0
+that is liquid now,0
+yes paeka also streams! she’s live on twitch rn,0
+very troll lol healing deadmines lsstnight was rough cant imagine 4 candle bfd,0
+```

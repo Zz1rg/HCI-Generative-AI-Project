@@ -1,0 +1,53 @@
+```csv
+message,label
+come on dude,0
+bimmmm,0
+intense gameplay huge comeback,0
+pf23rave pf23rave,0
+your doing well,0
+just need that w,0
+@wayvex_ defo dropped you at birth,1
+look at me with my bumper dribbling. hes pants pie,1
+"everyone just plays the same, this game is so boring i swear",0
+what a finish pie!!,0
+@cherryflavour96 is it not massive ???,0
+"please make sure to subscribe to my youtube for pack openings, highlights and more! youtube.com/pieface23",0
+@kerripe extra large,0
+he’s gave a foul fuck my life,1
+@cherryflavour96 amen,0
+foul for what tf,0
+never a foul that,0
+get the rave music back i say,0
+duo with tenz,0
+nooooo,0
+nooooooo,0
+doubters winnn,0
+make sure to subscribe to s0m's youtube channel - www.youtube.com/s0mcsgo,0
+ebildoggies cast their line into the water and caught a trout! trout,0
+yessirrr,0
+!mine,0
+ebildoggies went mining and fell into lava! pplava,0
+bleehhh,0
+joever,0
+will i see u at twitch con tmrw @s0mcs,0
+yo be sure to ask will what his favorite pi is,0
+3-12,0
+w doubter win,0
+raze,0
+oh my days.,0
+oh cwap,0
+radiant aim,0
+we were so close damn,0
+bla,0
+67 incoming,0
+you should duo w tenz,0
+@ebildoggies on the come up,0
+oh my days...,0
+yo will at 3-12,0
+where's peniiis?,1
+"why is it whenever i tune in, you're always on bind",0
+@ktpengui101 mmm,0
+na radiant = apac gold/plat change my mind,0
+diesofcringe,0
+wsg grabbage boy,0
+```

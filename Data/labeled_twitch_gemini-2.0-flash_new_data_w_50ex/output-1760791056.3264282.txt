@@ -1,0 +1,53 @@
+```csv
+message,label
+whats with the tv lol,0
+"lmao imagine loading up this game after a long day of work, excited to game with the boys, only to get matched vs shroud's squad o7",0
+how tf did he build that,0
+will shroud play legacy steel and sorcery? @shroud,0
+oof,0
+that's fked up,1
+the prox chat is so good,0
+i need to find my mic faaawj,0
+dang yo,0
+if it’s fp i’d play it so i’d say i’ll never play this.,0
+dammmn sadge,0
+the voip quality,0
+sounds so realistic lmao,0
+@zzjohnlzz magic,0
+so mean,0
+mbappe fries,0
+@jvssee jamar chase,0
+dembele,0
+@jvssee on form it is mbappe haaland or kane,0
+silkyplotting,0
+"👤 new follow(s) ❤ tyesopee ❤, welcome! (1 035 022 followers) (+46918).",0
+fine sht mhm,0
+"@jvssee mbappe, kane, haaland.",0
+@griezmannforce she has a bf chill,0
+w segment ngl,0
+cole palmer,0
+rooney best prem all time,0
+@unbiasedlybiased 🤣,0
+kane?,0
+dude said chase,0
+fries,0
+dembele best right now,0
+kane???????,0
+nigga lazar runing down ?,1
+dusk,0
+@habeshsniper fax,0
+@jvssee noone everyone is fries now but raphinha might ballondoor,0
+soccer talk in my 2026 🍟,0
+maya so pretty respectfully,0
+lmaooooooooooooo,0
+marcus fucking rashford,0
+@jvssee yes,0
+nah i'm an employee and see silk walk past and can't get a photo,0
+dembele best rn but he been injured good one guys,0
+mr beast?,0
+ww learnathon,0
+man take yall ass to espn,0
+mbappe has the best form overall rn,0
+mrbeast?,0
+rodri is criminally underrated,0
+```

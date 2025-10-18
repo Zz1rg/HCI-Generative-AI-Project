@@ -1,0 +1,53 @@
+```csv
+message,label
+w astro physicist,0
+bro said astrophysics lol,0
+silk criminal justice major,0
+wooow,0
+real ones remember adapts videos of his last days at high school,0
+loooool,0
+same and i owned 6 blockbsters lol,0
+business school for astrophysics,0
+finished harvard top class,0
+uhhhh,0
+lmaooo harvard grad fr. linkedin official,0
+he has a yt video graduating lol,0
+nerd,1
+ged nah,0
+astrophysics at business school is crazy,0
+is she calling him unintelligent,0
+ged lol,0
+w education,0
+w silkyy,0
+faked a degree but never faked a trickshot,0
+oh we know,0
+what school?,0
+studious ahh woo,0
+adapt doesnt real the dis lol,0
+mogged,0
+😭😭😂😂 w linkedin,0
+smart woo,0
+silky a criminal justice major,0
+compsci is hard im at umd doing that shit rn,0
+big woo a nerd,1
+who wouldve guessed that,0
+silky is my goat,0
+woo the smartiest,0
+adapt is top of his class at harvard,0
+cap woo ain’t know shit about comp sci,1
+woo smarttt,0
+masters degree gang.,0
+a degree isn’t shit,1
+got a degree in trickshotting,0
+woo the nerdiest,1
+woo the smartest,0
+pre 100% oxygen btw,0
+science hahaha bro the arts and science school is not a science major,0
+w degree,0
+never faked a college,0
+😪😪,0
+adapt look like jesus autopsy after they crucified him,0
+ofcourse,0
+w adapt,0
+it's ok adapt,0
+```

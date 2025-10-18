@@ -1,0 +1,53 @@
+```csv
+message,label
+bats were rage baiting each other,0
+l bat cant catch a moth,1
+feets,1
+talking shit to your peers is universal,1
+those are cute feet,0
+@i_am_sloppyjoe that’s what i heard,0
+@attack_theory ^^,0
+feetsies,1
+magnets how do they work?,0
+5head,1
+grippage,0
+jesus this is crazy,0
+nature y'all wow,0
+this is fucking awesome,1
+well all be damned,0
+this video makes learning fun!,0
+mat1hmm,0
+"@spieooo ok, im not crazy lol",0
+different specs,0
+bad looks drunk,0
+@lebank calm down,0
+"sonar, and velcro!",0
+looks so derpy,0
+it’s amputated,0
+do they shit while they are upside down,0
+@i_am_sloppyjoe kek,0
+the mfin hexy,0
+kappaa,0
+snakeinbox snakeinbox snakeinbox,0
+mxfiax 1v1 me bro,0
+@higgsgirlfriend was really sick today ngl,0
+@momndadfn it is tough anyway so i don’t blame u lol,0
+hydra is a sell out,1
+u,0
+do you have highlights,0
+@higgsgirlfriend stressful :(  how’s yours?,0
+@ethanleefn were actually goated,0
+having hydra on your team is like having a player on the other side,1
+@ethanleefn nobody wanted to give me their money lol,0
+@dadnmomfn w,0
+we use to run a dart page for tokens @ethanleefn,0
+mxfiax you are a fortnite looser,1
+muz playing tokes!,0
+@jewellawrence just went out with a friend basically all day it was good,0
+@king_twitch_1 ok,0
+omfg,1
+@dadnmomfn damm nice,0
+@nobothegreat1 aww sorry hope it gets better!,0
+anyone hit a 180,0
+!cashapp,0
+```

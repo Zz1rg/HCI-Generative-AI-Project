@@ -12,7 +12,7 @@ curr_dir = Path(__file__).parent.resolve()
 def generate():
   client = genai.Client(api_key=os.environ.get("API_KEY"))
 
-  with open(curr_dir / "../Data/converted_hate_speech_detection_curated_dataset/sampled_100.csv", "rb") as f:
+  with open(curr_dir / "../Data/converted_hate_speech_detection_curated_dataset/sampled_50.csv", "rb") as f:
     labeled = f.read()
   with open(curr_dir / "../Data/cleaned_twitch_data.txt", "r") as f:
     unlabeled = f.read().splitlines()
@@ -61,7 +61,7 @@ good game,0
   si_text1 = """You are an expert Data Scientist specializing in Natural Language Processing (NLP) and content moderation. Your task is to analyze a labeled dataset of messages to learn what constitutes offensive content, and then use that knowledge to classify a new set of unlabeled messages."""
 
   model = "gemini-2.0-flash"
-  version = ''
+  version = '_new_data_w_50ex'
   os.mkdir(curr_dir / f"../Data/labeled_twitch_{model}{version}/")
   os.chdir(curr_dir / f"../Data/labeled_twitch_{model}{version}/")
 

@@ -1,0 +1,53 @@
+```csv
+message,label
+go back to mooing,1
+"there is a lot worse english speakers, your fine",0
+all those bls,0
+use the riverplate accent to the lll sounds,0
+fair,0
+"chat, laugh in spanish at her",1
+liemeter,0
+jajajaja,0
+jajaja,0
+jajjajajsj,0
+@palbrofella jajajaja,0
+jajajajaja,0
+@palbrofella jajajajajajajaja,0
+jajajajajajaja hah,0
+@esfandtv check discord if you get a second,0
+drive that car behind you home kappa,0
+is miz still sleeping?,0
+otk next top drivers,0
+im so fucking happy for you man! <3,0
+@chotes__  that's not true they stole his car and they kicked him out that's why he came down to sd on a bike,0
+so proud of you bro,0
+thank you :3,0
+go see the w community,0
+@medda69 hesright,0
+"@dravenously, d:",0
+orderup,0
+esfandm oh look at this neat box that i found that i will totally attempt to sell in offline chat,0
+is he part of redbull??,0
+ask for a redbull vehicle,0
+jackass now get me a visor,1
+sweeeet,0
+connorrrr,0
+connor,0
+conner pog,0
+firing up the visor factory,0
+ez we have binders full of visors,0
+yooooo,0
+wassup connor,0
+ez workin on it,0
+hi connor,0
+pants guy,0
+connor6peepo,0
+yo connor,0
+peepohey hey mr pants,0
+ask for a redbull car,0
+connor yooooo pogging,0
+soyconor,0
+the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo the retbull is real letsgooo,0
+pants consumer,0
+connor eat his pants pogging,0
+```

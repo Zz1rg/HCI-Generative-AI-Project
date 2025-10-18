@@ -1,0 +1,53 @@
+```csv
+message,label
+outside,0
+ask you idiot,1
+ask,0
+outsode,0
+kaysan is the place over by where ron was,0
+mhm 5 gifted for treasure train,0
+next building overr,0
+outside is,0
+come to gaslamp smoke shop in downtown san diego i will hook you up.,0
+outside outside,0
+jason said pull up at red bull he is there,0
+outside go to the basketball court how about you read chat riri,0
+goon central,1
+rwash hands @lacy,0
+jason looking for you,0
+come to gaslamp smoke shop in downtown san diego i will hook you up,0
+across the street,0
+hi lace,0
+yooooooooooooooooo,0
+machinima???,0
+that way,0
+is there a map,0
+ofc gooner,1
+food court,0
+manidk,0
+you like goon central?,1
+ron is outside,0
+go to the redbull tent,0
+the gooner area?,1
+eliswalk,0
+go back to the esclator ron outife same as jason,0
+ron’s outside,0
+rondale,0
+ron on sidewalk,0
+seeee,0
+slay,0
+hes rigth there,0
+kaysan is over there,0
+you like the gooner gang spot???,1
+widespeedlemon,0
+oh god,0
+sunny oooo,0
+omg sunny,0
+6 7,0
+feelssunnyman,0
+ww sunny,0
+sunny,0
+free nobu at jason,0
+omggg sunnnnyyyy,0
+sunnyyy oooo,0
+```

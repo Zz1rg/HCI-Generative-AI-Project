@@ -1,0 +1,53 @@
+```csv
+message,label
+boomies buttermilk boomies buttermilk boomies buttermilk boomies buttermilk boomies buttermilk boomies buttermilk boomies,0
+major caboose nodders,0
+buttermilk,0
+muzzle loader,0
+we love 11y joel,0
+rikkuflushed,0
+mhm young doll had a different voice,0
+donkpraise major caboose,0
+gladge my oshi major caboose,0
+10? not 10?? agonyi1huh,0
+8 in 2008 me too!! crumpdance,0
+come back cease,0
+girldmlul,0
+awkward lol,0
+be free,0
+k9kurokek,0
+be free visceraeyelling,0
+naaw foxyjooh,0
+have a good night kuro pmelmalady1,0
+foxyjolubbers ty for joining us kuro,0
+k9kurokek k9kurokek,0
+goodnight kuro~,0
+thanks for coming on tonight kuro!!,0
+foxyjolubbers thank you for yaps kuro,0
+"that was..... a history, yes..",0
+blanked out,0
+what we learned about kuro: alot of circle,0
+i am traumatized uwu,0
+oh no,0
+that was.....fun,0
+foxyjopatting,0
+foxyjopat,0
+kuro is just like this wwwww,0
+k9kurokek k9kurokek k9kurokek,0
+sakura lol,0
+ahhhhhh ahhhhhh ahhhhhh,0
+sakura is not ok,0
+pre cte,0
+sakura got crackhead energy pfft,0
+on this dirty ass floor,1
+sakura pfft,0
+24 x24 big ahh house,0
+dirty ahh floor,1
+it’s just 2ft by 2ft,0
+crazy dirty floor,1
+omg...,0
+stop pfft,0
+wtf are yall doing,1
+pfft ͏,0
+why????,0
+```

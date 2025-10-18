@@ -1,0 +1,52 @@
+```csv
+message,label
+gg,0
+ilya wtf,0
+ggs,0
+yall are bots frrr,1
+why no plant,0
+hel noo,0
+gg guys,0
+what just happen?,0
+lol,0
+nice,0
+peepobye prx,0
+what,0
+nooo,0
+nice niceguys woohoo yessir,0
+lmfao,0
+cumback,1
+geee geeeeee,0
+lo,0
+gg gg,0
+no,0
+letsgooo,0
+bilatmen,1
+lul,0
+ez,0
+noooo,0
+fak,1
+wwwwwww jinxed,0
+noooooooooooo,0
+tang ina mo shanks,1
+charity woooooooooooooooooooooooooooooooooooo,0
+ww jinx,0
+:(((((((((((,0
+lol 2-0 lmfao,0
+thats not a cloneeee,0
+gggg,0
+noooooo,0
+!results,0
+gg send them home,0
+free huh,0
+g,0
+ahahahhahahha,0
+gg :(,0
+prx bottinggggggggggggggg,1
+:(,0
+best team gg,0
+he's definitely on something. the amount of restraint they showed,0
+he told cop he was deep d his daughter and wife lol,1
+good morning hutch good morning chat!,0
+pull his pants up please,0
+```

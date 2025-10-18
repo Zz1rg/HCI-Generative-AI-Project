@@ -1,0 +1,53 @@
+```csv
+message,label
+copium,0
+lo bro started,0
+reallynow,0
+218noma  hello,0
+peepohey lily - he's safe. he drank fast.,0
+@218noma hello lily,0
+hes drunk af,0
+liemeter drunk,0
+so drunk,0
+hiii,0
+ur so slow,1
+pop the champagne,0
+keeep the ball,0
+bro i am sick of these hackers on pc. what console is better to play on? i have a xbox series x and ps5,0
+smehdimessi smehdimessi smehdimessi smehdimessi smehdimessi smehdimessi smehdimessi smehdimessi smehdimessi,0
+sold,0
+that player lock was it,0
+that’s ur st btw,0
+that's bassey tomorrow,0
+does he play the silver tourney on your acc sir? @mdg4_,0
+harramball for the win,0
+he’s on your arsenal team,0
+yoooooo,0
+@novardynoparty86 no. the silver thing is the xbox rtg,0
+today technically counting down the hours,0
+which im helping him grind,0
+gadamodancee,0
+only me who got destroyed by gyokeres today???,0
+that’s game,0
+holt,0
+zweerupting zweerupting,0
+come onnn,0
+im going to the corner there,0
+*holy,0
+vamosssssss,0
+well done,0
+!title rank 1 rewards now!!!!!!!!! (eng/gre),0
+@evren__7 -> the stream title has been updated to: rank 1 rewards now!!!!!!!!! (eng/gre),0
+@kellzz___ yup,0
+bot,0
+lrgoooooooooo,0
+what a game,0
+w3wwwww,0
+seemsgood seemsgood seemsgood,0
+my goat,0
+@mdg4_ oh bet,0
+15-0,0
+!420,0
+gg goat,0
+smehdironaldo smehdironaldo smehdironaldo,0
+```

@@ -1,0 +1,53 @@
+```csv
+message,label
+ugh,0
+someone in jail could do the funniest thing peeposmile,0
+it seems like everyone that runs those kind of organizations just seem to never really get in trouble i wonder why…,0
+rico was stupid they didn’t have enough prove for that,1
+getting diddy was a slam dunk but rico charges were kind of silly.  especially in retrospect,0
+facing 25+ years originally to only get 4 is disgraceful om,1
+"the judge, arun subramanian has been on the federal bench for ~two years. he was nominated to the u.s. district court for the southern district of new york by then-president joe biden in 2022 and confirmed by the u.s. senate in 2023 in a 59-37 vote",0
+bernarda is a cool name,0
+puke,1
+changed man how??!?!,0
+@ivan_against_cuisine ugh yeah if he gets his way. but he could also pardon him,0
+"""just a family man""",0
+i wont watch that,0
+"ughh i'm so over ""family man"" bullshit",1
+"always a ""family man""",0
+4 years is a slap in the face.... like he will be out in no time again,1
+an 11 minute self glaze video,0
+"some of the worst people in history were ""family men""",1
+yep,0
+using his kids as props is so fucked up,1
+pos,1
+"man was an abuser, but not some kind of ""criminal overmind""",1
+his impact on the community as a serial abuser and sexual predator,1
+rip kim porter,0
+being a father = free pass,1
+ia a family man defense for rich people needs nerf,0
+literally just being a father,0
+the bit of the video i saw seemed terribly hollow,0
+the bar is in hell,1
+what happened that made him change???? being a good father doesn't mean its ok to do what ge did?,0
+literally being present at all,0
+grug mword protect men,1
+cause the bar is so low for them,1
+tale as old as time,0
+being a good father is the bare fucking minimum. it's what you're supposed to do,1
+the bar is that low for men,1
+mword mediocrity being praised again classic,1
+apparently it did since he refused to send him to jail for 11 years,0
+a shield,0
+he's doing the bare minimum,0
+the bar is on the floor,1
+hey look! he got kids! this means he is a good person sure sure,0
+it's bullshit,1
+a load of shit from that judges mouth,1
+a blank check to be shitty apparently,1
+he held the baby so he’s all good,0
+all fathers are shining beacons but daddy issues is a common trope because ????,0
+i'm not sure good fathers kill the mother of their children.,0
+who wants to have kids to do crime,0
+christian patriarchy basically @carolinekwan,0
+```

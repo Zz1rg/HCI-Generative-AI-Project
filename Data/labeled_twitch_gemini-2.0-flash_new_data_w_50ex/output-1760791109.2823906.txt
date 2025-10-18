@@ -1,0 +1,53 @@
+```csv
+message,label
+will you play for prx if they tried to take you?,0
+oop,0
+stretched: 1920x1440 | standard: 2560x1440 | old: 1920x1080,0
+he asked to watch not play,0
+hi tenz,0
+"i think veto was subpar when he launched, but now that his competition got nerfed i think he is solid now",0
+lazymeraki do u wan watch peak gameplay,0
+!config,0
+"@ofakeee i just dont think riot would ever want ranked to be replaced by a third party app, its not a good look. but the server browser shit for custom dm's and shit is just a must, ive no idea why it doesnt exist",0
+u already answered for me,0
+!configs,0
+how many sec does the smoke fade chat?,0
+!comands,0
+lazymeraki brah,0
+0 how are we falling for valo scams,0
+how is jett having only 700 coin,0
+samitayyt ok ima get on,0
+"winnable @tenz , focus mode on",0
+@tenz do you have booth in twitchcon?,0
+heyo,0
+"@quikanims i think it was the way people played him, they played his signature proactive instead of reactive which kinda makes it a bit useless",0
+"@samitayyt ooo funn, some comp",0
+i mean i’ll play but i do not have an account so,0
+how do u like the new bundle,0
+why do people choose the phantom over vandal in high rank?,0
+!iem,0
+"64 audio u12t | previous: moondrop blessing 3,truthear x crinacle zero:red and custom 64audio moulded iems (needs refitting)",0
+lazymeraki u have two of my accs and u don thave to play if u dont wanna its 4am,0
+"october 17th 2025, 8:44:43 pm pdt gmt-07:00",0
+tenz is immortal 3 [278/450 rr] | place: 77 | today 0w/0l 0 rr,0
+how is the update of val so far?,0
+did you like the new vandal,0
+@intruders_ better for spams while being mostly the same as vandal for damage,0
+@tenz what do you think would be different for sen if you never left,0
+"gotcha, thank you",0
+"@vitalytoly i dont think it would be a bad look. it could revive the general public competitiveness. the game has been out for 5 years now, and not a single change to ranked rewards or anthing to revive ranked and give people something to play for",0
+make sure to follow me on the rest of my social media to stay updated and join my community discord! twitter: https://x.com/tenzofficial | discord: https://discordapp.com/invite/vnj9pku | youtube: https://www.youtube.com/tenz | instagram: https://www.instagram.com/tenzofficial | facebook: https://www.facebook.com/tenzval,0
+why u lowered the game sound on live?,0
+nc,0
+"tenz, do you use the enhanced precision pointer?",0
+u like the new bundle?,0
+@cheriezoee bet],0
+miss the odin,0
+im on alr,0
+@spicyoatmeal0602 -> the bot commands for this channel are available at https://nightbot.tv/t/tenz/commands,0
+"@ilvc4s his signature was fine, his problem is that he has little to no stopping power as a sentinel and his flank watch is mediocre at best. but now that all the sentinels got fucked and util is more sparse his gameplan is actually much more impactful",1
+solo life,0
+@vonarc thanks,0
+i believe. comeback is real,0
+i actually call the comeback,0
+```

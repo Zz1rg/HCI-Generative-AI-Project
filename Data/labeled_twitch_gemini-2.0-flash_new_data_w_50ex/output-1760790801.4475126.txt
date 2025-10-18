@@ -1,0 +1,53 @@
+```csv
+message,label
+can confirm i just bought today and haven’t put it down,0
+dogshit start but it picked up a little,1
+you need size,0
+at least go to third and see where it goes,0
+"alert a 180 second ad break now running courtesy of twitch. if you don't like ads, please consider supporting by using your prime sub, buying a sub or twitch turbo! alert",0
+are folks maxing difficulty in stage 1 to get the legit high scores?,0
+the fucking box,1
+what’s your highest score?,0
+exhilerated used 600 bits to play everything is falling apart! and blast excuses,0
+i hate how they push you around so mcuh,1
+its rough,0
+fox time?,0
+kekew,0
+gladding,0
+did u use keto diet to get more cut??,0
+if you get the size it will be ez for you  to kill them,0
+"you can hit 1m without surviving there long but you need cursed tome to do that. i had 40k after stage 2 and i hit little under 1,1m",0
+a gamba if he complains?,0
+what is my fucking rng,1
+wait you sound like my 9yo son lul,0
+everytime i take cursed tome icant keep up with it lol,0
+"bro one of the song tracks is ""she mega on my bonk (all night long)""",0
+"grizzy my dad left, will you adopt me",0
+go to the boss grizzy,0
+grizzy if you could be in any video game which one would it be but if you die in the game you die in irl,0
+yyyup,0
+lmaooooooo,0
+lmfaooooooooooo,0
+6 bosses?!?!,0
+boss curse,0
+oh my goooood,0
+clicked at the wrong time,0
+sogrizwheeze sogrizwheeze,0
+you were just unlucky to have the normal boss to spawn with final,0
+what did you do grizzy???,0
+holy shit,0
+i left for 2 minutes,0
+holy shit hes doing it chat,0
+hes doing it,0
+grizzys him?,0
+naurrrrrrr,0
+oh my god,0
+i've activated 5 tomes before. still won,0
+yikes,0
+that was wild,0
+what is this game,0
+if he didn't increase he had it,0
+sup,0
+she bonk on my mega til i,0
+get off the rogue grizzy,0
+```

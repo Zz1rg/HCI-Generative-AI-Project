@@ -1,0 +1,53 @@
+```csv
+message,label
+seqthinking,0
+rusted gear  scraps to mechanical parts nice,0
+seq thats why i love u u always nearest all this low strteamers,0
+what did i just read,0
+seqhacker,0
+i just got a nose bleed trying to read that,0
+seqbarcode,0
+@rigadonuts still trying here,0
+chat's on one tonight,0
+don't be shy now share the info with us,0
+seqchat,0
+eh?,0
+boy asking for it,1
+they cannot shoot xddd,0
+glad it was not just me,0
+that's english far-code.,0
+does this game have the equivalent of a scab run?,0
+scav,0
+i had to take a seat just to try and read that.,0
+@thebutcherlive yeah the free kit,0
+still failed.,0
+"64 gigabaud ram u rich fuck, fuck u rich seqchat",1
+"@thebutcherlive no, but there's a free kit",0
+@grizzlyhits kekl,0
+read when full kappa,0
+@puukjitis i think you've had enough to drink tonight,0
+no one shoot on excation point,0
+"free kit, if you extract with free kit you can upgrade it to an adult kit",0
+ok someone gettem outta here kekw,0
+do those cameras do anything besides make noise?,0
+seqkek,0
+waaaaaaaaaay too much to drink tonight...,0
+@mrshilka thanks,0
+"boss saw, mans fucked now",1
+adult kit @ghsteo seqdag,0
+how many players load in ?,0
+"niiiiiiice, glad to see the crew playing this again. such a great looking game.",0
+bf6 on masx settings is no joke,0
+hows the optimization ?,0
+devs should let modders polish their games bc they obv know what they are doing,0
+the biggest question is are they gonna use unity again?,0
+@rumblecrush spt is closer to what they actually wanted yep,0
+sadge u have to play on low settings,0
+"@protomateria tarkov was also supposed to have an open world between all the zones, i wouldnt hold my breath",0
+i feel like shroud would do a really good ian malcolm impression,0
+"@kingghum i see, cheers",0
+@xfidd amazing,0
+arc will be my main game until gta6,0
+@nahhurgoood depends on the map be usually 20-25ish,0
+is it true this game wont be wiping at all?,0
+```

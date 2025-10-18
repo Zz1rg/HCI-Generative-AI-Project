@@ -1,0 +1,53 @@
+```csv
+message,label
+she hasn't,0
+bug type pokeymon?,0
+awwwwwwww,0
+cease mata,0
+hii mata,0
+nooooooooo,0
+mata evolving pogchamp,0
+cool glasses,0
+its,0
+booba,0
+mataaaaaaaaaa,0
+vtu ber,0
+maya,0
+mataaaaa,0
+<3 <3 <3 <3,0
+oh mama,0
+mata aboba,0
+mata!!!!,0
+mataaaa,0
+matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin,0
+roach mother in the flesh,1
+grimmi14laughingman,0
+mata irl,0
+saiil,0
+it's a bug woman,0
+omg its faceeeeeeeeee,0
+hello oooo matara10spin matara10spin matara10spin matara10spin,0
+looking mata has nice personalities mhm,0
+mata!!,0
+grimmi14squibby grimmi14squibby grimmi14squibby grimmi14squibby,0
+peepeesniffa,1
+she is actually that tall,0
+matara10patpat matara10patpat,0
+mata!!! matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin matara10spin,0
+matara10pien matara10pien matara10pien matara10pien,0
+saiiyaay saiiyaay saiiyaay saiiyaay saiiyaay saiiyaay saiiyaay saiirave saiirave saiirave saiirave saiirave,0
+yoooooooooooooooo,0
+i knew she was hot,0
+mewmotewave,0
+lubbers mata,0
+oh shit its mata,0
+cease mataaaa,0
+gawd she's gorgeous!!!,0
+mata hiii :d,0
+oh god oh god she is so pretty,0
+matara!!! 💜💜💜💜,0
+saiiyaay saiiyaay,0
+you loook amazing,0
+so pwetty,0
+mata???,0
+```

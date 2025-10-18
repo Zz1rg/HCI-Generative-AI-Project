@@ -1,0 +1,53 @@
+```csv
+message,label
+damn jimmy changed,0
+nigga 38,1
+m4riwhew m4riwhew,0
+42,0
+is that jimmy!!?????,0
+😂😂😂😂😂😂😂😂😂,0
+temu heuwee,0
+lmaooooooooo,0
+shoulders tensed,0
+he looks old assssss hell,0
+zo texttt,0
+nigga 45,1
+he a pimp,0
+my name is adam mehal,0
+as if,0
+zoooo,0
+call toxic,0
+nigga two kids in a raincoat,1
+45,0
+not shawty laughing 😭,0
+who you think i is,0
+zo sent u lo,0
+bro zo,0
+do the roller cster,0
+zo text,0
+nigga said hasbullah fanumlmaooooo fanumlmaooooo fanumlmaooooo fanumlmaooooo,1
+hasbulla🤣🤣🤣🤣,0
+fanumlmao fanumlmao fanumlmao,0
+why he running,0
+@mysteriousmoose7 🧢🧢 u gay,1
+@ibxyy_ fuck you,1
+ab coming,0
+summer too hot,0
+cb,0
+he too much lol,0
+@mysteriousmoose7 smd pussy,1
+peanut got 24/7 add,0
+fanumsalsa,0
+she laughing tooo,0
+hey hey,0
+hope u dont think zo wit u,0
+@str8_sava6e ur mom,1
+fanumlmao,0
+hasbulla fanumeyes,0
+@mysteriousmoose7 beg,0
+u told ab the lo,0
+bruh ab,0
+dont forget about ab,0
+@ibxyy_ u deadass gay for that,1
+he gets side tracked to fast,0
+```

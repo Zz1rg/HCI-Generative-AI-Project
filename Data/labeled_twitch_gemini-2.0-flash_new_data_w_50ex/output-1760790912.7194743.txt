@@ -1,0 +1,53 @@
+```csv
+message,label
+he's really da 1,0
+college a scam,1
+jerry woo a good boy,0
+trickshotting was his calling fr still is,0
+adapt deserves an honourary degree,0
+"crane shot, high rise, 1080",0
+k/d higher than your gpa,0
+gilly,0
+where’s gillys beer,0
+pre 100% oxygen too,0
+look at you now,0
+worth it,0
+bdeoliln,0
+thats crazyyy,0
+w class of 96,0
+i don’t want your number no,0
+1080 degree to be precise,0
+ari can not beat ari !,0
+ari v ari,0
+"@slots87 yeah, i wish they kept the tradition of a third game like with crystal, emerald, and platinum.",0
+choosed canarielle :3,0
+henyahah henyahah henyahah henyahah henyahah henyahah henyahah henyahah henyahah henyahah,0
+mb,0
+mhm kinda true,0
+ari vs ari,0
+her basement,0
+but some respect on his glowshi's name,0
+can ari beat ari,0
+ariellelol,0
+@bakawally nope,0
+this wont age well...i just know it,0
+just follow the sounds of screaming mhm,0
+right off the bat,0
+letsgo mirror match,0
+corgo100 ari you have defeated many challenges but can you defeat dot dot dot yourself?,0
+pokemon suika game??,0
+are you the simp or the one he is talking about,1
+place your bets glowsticks arielledinkdonk arielle or canari  arielleloading place your bets glowsticks arielledinkdonk arielle or canari  arielleloading place your bets glowsticks arielledinkdonk arielle or canari  arielleloading,0
+beldum build-up? so tetris,0
+kekw can't wait till the canari fight,0
+cheer100 identify theft is not a joke gamefreak,0
+shes a gamer your honor,0
+b,0
+which one of us works at gamefreak  ariellenoted  which one of us works at gamefreak  ariellenoted  which one of us works at gamefreak  ariellenoted  which one of us works at gamefreak  ariellenoted  which one of us works at gamefreak  ariellenoted,0
+ari vs ari violence,0
+uni100,0
+which one of us works at gamefreak ariellenoted which one of us works at gamefreak ariellenoted which one of us works at gamefreak ariellenoted which one of us works at gamefreak ariellenoted which one of us works at gamefreak ariellenoted,0
+impinge?,0
+awowow,0
+i'm partnered with gamersupps! use code holo for 10% off your order! https://gamersupps.gg/holo,0
+```

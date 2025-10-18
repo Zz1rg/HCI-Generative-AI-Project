@@ -1,0 +1,53 @@
+```csv
+message,label
+follow the finger,0
+theyre my everything just let me drive drunk with them,1
+thingreenline salute thingreenline salute thingreenline salute thingreenline salute thingreenline salute,0
+breatherliser,0
+yep kekw,0
+is he still in ice?,0
+pivo steerr,0
+nope -_-,0
+zing!,0
+seemsgood,0
+petthemods,0
+hashmm,0
+if they’re your everything maybe don’t drive drunk with them,0
+pivo steerr my kids mean everything to me,0
+exactly,0
+how does my kekw get blue!!!,0
+"""theyre my everything"" i say as i drive drunk",1
+ahahahaha,0
+“they’re my everything so i drive em drunk letsgo”,1
+why are they giving him an out,0
+pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me,0
+he endangered his kids! they dropped it so he wouldn’t lose his kids..probably,0
+bro gave him an out to have someone else come grab his truck,0
+for real kekl,0
+it makes no fucking sense,1
+on a bridge,0
+as you drive them drunk as fuck,1
+chudema,1
+wtf mods,1
+it's crazy if his wife let him off for child endangerment.  @hasanabi,0
+classic gum,0
+no warning shot to the back of the neck?! whyyyychaos,1
+i'm saying,0
+i love them. and beer,0
+thingreenline i stand with the flag,0
+modsssss letsgo,0
+cyring,0
+lmao yeah seriously!,0
+sounds like my dad kekw,0
+@hasanabi he drinks while driving his kids to get a rush,1
+hasbaited hasbaited hasbaited,0
+"his everything, so if he dies they die with him makes sense to me!",0
+sounds like he is trying to give him an excuse,0
+kekw kekw,0
+felony civilian racism,1
+yep disgusting,1
+driving while drunk,1
+are you hatian ????,1
+pivo  steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me pivo steerr my kids mean everything to me,0
+pivo hyperclap,0
+```

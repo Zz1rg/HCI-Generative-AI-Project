@@ -1,0 +1,53 @@
+```csv
+message,label
+betrayed,0
+jun yun,0
+lmaaoo,0
+smh,0
+junyin,0
+jonion,0
+awkward,0
+what kind of pizza?,0
+jonion lmfaoo,0
+awks,0
+!sef,0
+he really can’t read,1
+🧅,0
+!swf,0
+geistra and pills peepoclap,0
+five nights at diddys,0
+this map is so poop,1
+…,0
+dont wanna know,0
+is ur back big,0
+gamer you are a hot pocket,0
+skermzrage,0
+ewwwwwwwwwwwwwwwwwwwwwwwww,1
+billy lmao,0
+is that cat tail a plug,1
+nah ur so scared,0
+ew trickster,1
+ur scared of trickster,0
+i havent seen a trickster in years,0
+predropping vs c tier killers smh,0
+void,0
+ew no,1
+action w me skermzflex,0
+.....,0
+ur predropping cuz ur net sucks,1
+always asking for skin,0
+i got 3 1/2 inches of skin for you righ there,1
+ohayo,0
+haunted grounds,0
+ohio mention,0
+haunted,0
+i hope it's haunted,0
+o-hai-yo,0
+did he say sumn sus again?,0
+sits quietly with my standard 75 ping...,0
+rub that totem,0
+hope its haunted,0
+skermzflushed,0
+joshsekiclose,0
+we outta totems,0
+```

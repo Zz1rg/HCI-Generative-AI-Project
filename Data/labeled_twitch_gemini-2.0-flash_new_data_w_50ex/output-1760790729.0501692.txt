@@ -1,0 +1,53 @@
+```csv
+message,label
+you tucked eno_cozi to bed byeee 👉 🛏,0
+crowbar is pretty good,0
+uhuhuh *hugs*,0
+come on ez clap,0
+i can't believe she did this whole playthrough without the ak gigachad,0
+peepocoffee,0
+uhuhuh,0
+ez dodge,0
+nice moves,0
+saved,0
+peeporun angrily,0
+ha ahahahaha,0
+um,0
+jah,0
+mmmm,0
+$gpt where is the fog monster in silent hill,0
+"bbqsaucerer, 🤖 there isn’t a single “fog monster” in silent hill. the fog is a constant, oppressive atmosphere in the town, designed to conceal its creatures. if you mean a specific boss/creature, specify which game or scene.",0
+uhuhuh bonschizo,0
+sure just flowers,0
+"clueless flowers, not flesh",0
+the fog weighs heavy,0
+hahahaah hello,0
+2020snacking,0
+it's flowers sparkles,0
+this looks like an average winter morning in california om,0
+aloo,0
+sniffa 🥀,0
+they’re cherry blossoms,0
+yeaaa woooo,0
+ratirlvibe,0
+!time,0
+bonnie's local time is 02:48:25 am cdt,0
+the combat looks stiff,0
+aboba aoeoaeo,0
+just keep going bon,0
+peeporun fog0,0
+classic 3 am gaming,0
+we finishing the game bbq mhm,0
+letsgo 24 hour stream,0
+o k,0
+no way you still live aintnoway,0
+aboba drumtime,0
+@bbqsaucerer lol,0
+@daaronzolv nowoy,0
+this house,0
+catkiss,0
+hmmm,0
+just kill everyone mhm,0
+triangle on the map?,0
+eeeh,0
+```
